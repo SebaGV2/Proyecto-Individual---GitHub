@@ -1,0 +1,1001 @@
+id,title,genres,release_date,revenue,budget,vote_average,popularity
+862,Toy Story,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1995-10-30,373554033.0,30000000,7.7,21.946943
+8844,Jumanji,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10751, 'name': 'Family'}]",1995-12-15,262797249.0,65000000,6.9,17.015539
+15602,Grumpier Old Men,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]",1995-12-22,0.0,0,6.5,11.7129
+31357,Waiting to Exhale,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-12-22,81452156.0,16000000,6.1,3.859495
+11862,Father of the Bride Part II,"[{'id': 35, 'name': 'Comedy'}]",1995-02-10,76578911.0,0,5.7,8.387519
+949,Heat,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1995-12-15,187436818.0,60000000,7.7,17.924927
+11860,Sabrina,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1995-12-15,0.0,58000000,6.2,6.677277
+45325,Tom and Huck,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1995-12-22,0.0,0,5.4,2.561161
+9091,Sudden Death,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",1995-12-22,64350171.0,35000000,5.5,5.23158
+710,GoldenEye,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1995-11-16,352194034.0,58000000,6.6,14.686036
+9087,The American President,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-11-17,107879496.0,62000000,6.5,6.318445
+12110,Dracula: Dead and Loving It,"[{'id': 35, 'name': 'Comedy'}, {'id': 27, 'name': 'Horror'}]",1995-12-22,0.0,0,5.7,5.430331
+21032,Balto,"[{'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}]",1995-12-22,11348324.0,0,7.1,12.140733
+10858,Nixon,"[{'id': 36, 'name': 'History'}, {'id': 18, 'name': 'Drama'}]",1995-12-22,13681765.0,44000000,7.1,5.092
+1408,Cutthroat Island,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",1995-12-22,10017322.0,98000000,5.7,7.284477
+524,Casino,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",1995-11-22,116112375.0,52000000,7.8,10.137389
+4584,Sense and Sensibility,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-12-13,135000000.0,16500000,7.2,10.673167
+5,Four Rooms,"[{'id': 80, 'name': 'Crime'}, {'id': 35, 'name': 'Comedy'}]",1995-12-09,4300000.0,4000000,6.5,9.026586
+9273,Ace Ventura: When Nature Calls,"[{'id': 80, 'name': 'Crime'}, {'id': 35, 'name': 'Comedy'}, {'id': 12, 'name': 'Adventure'}]",1995-11-10,212385533.0,30000000,6.1,8.205448
+11517,Money Train,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",1995-11-21,35431113.0,60000000,5.4,7.337906
+8012,Get Shorty,"[{'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",1995-10-20,115101622.0,30250000,6.4,12.669608
+1710,Copycat,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1995-10-27,0.0,0,6.5,10.701801
+9691,Assassins,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",1995-10-06,30303072.0,50000000,6.0,11.065939
+12665,Powder,"[{'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",1995-10-27,0.0,0,6.3,12.133094
+451,Leaving Las Vegas,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-10-27,49800000.0,3600000,7.1,10.332025
+16420,Othello,"[{'id': 18, 'name': 'Drama'}]",1995-12-15,0.0,0,7.0,1.845899
+9263,Now and Then,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1995-10-20,27400000.0,12000000,6.6,8.681325
+17015,Persuasion,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-09-27,0.0,0,7.4,2.228434
+902,The City of Lost Children,"[{'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 12, 'name': 'Adventure'}]",1995-05-16,1738611.0,18000000,7.6,9.822423
+37557,Shanghai Triad,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",1995-04-30,0.0,0,6.5,1.100915
+9909,Dangerous Minds,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",1995-08-11,180000000.0,0,6.4,9.481338
+63,Twelve Monkeys,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]",1995-12-29,168840000.0,29500000,7.4,12.297305
+78802,Wings of Courage,"[{'id': 10749, 'name': 'Romance'}, {'id': 12, 'name': 'Adventure'}]",1996-09-18,0.0,0,6.8,0.745542
+9598,Babe,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1995-07-18,254134910.0,30000000,6.0,14.404764
+47018,Carrington,"[{'id': 36, 'name': 'History'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-11-08,0.0,0,6.4,1.493361
+687,Dead Man Walking,"[{'id': 18, 'name': 'Drama'}]",1995-12-29,39363635.0,11000000,7.3,6.891317
+139405,Across the Sea of Time,"[{'id': 12, 'name': 'Adventure'}, {'id': 36, 'name': 'History'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1995-10-20,0.0,0,3.5,0.114469
+33689,It Takes Two,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 10749, 'name': 'Romance'}]",1995-11-17,0.0,0,6.1,7.777735
+9603,Clueless,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-07-19,0.0,12000000,6.9,9.882383
+34615,"Cry, the Beloved Country","[{'id': 18, 'name': 'Drama'}]",1995-12-15,676525.0,0,6.7,0.894647
+31174,Richard III,"[{'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]",1995-12-29,0.0,0,6.9,4.561387
+11443,Dead Presidents,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",1995-10-06,0.0,10000000,6.6,9.87957
+35196,Restoration,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-12-29,0.0,19000000,6.3,10.979269
+9312,Mortal Kombat,"[{'id': 28, 'name': 'Action'}, {'id': 14, 'name': 'Fantasy'}]",1995-08-18,122195920.0,18000000,5.4,10.870138
+577,To Die For,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}]",1995-05-20,21284514.0,20000000,6.7,10.448481
+11861,How To Make An American Quilt,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-10-06,23574130.0,10000000,6.5,4.485958
+807,Se7en,"[{'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1995-09-22,327311859.0,33000000,8.1,18.45743
+10530,Pocahontas,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1995-06-14,346079773.0,55000000,6.7,13.280069
+8391,When Night Is Falling,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-05-05,0.0,0,5.9,3.302524
+629,The Usual Suspects,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",1995-07-19,23341568.0,6000000,8.1,16.302466
+117164,Guardian Angel,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}]",1994-11-22,0.0,0,6.3,0.595949
+11448,Mighty Aphrodite,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1995-09-13,6700000.0,15000000,6.7,15.899134
+49133,Lamerica,"[{'id': 18, 'name': 'Drama'}, {'id': 10769, 'name': 'Foreign'}]",1994-01-01,0.0,0,7.7,1.361286
+26441,The Big Green,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1995-09-29,0.0,0,5.2,5.982764
+97406,Georgia,"[{'id': 18, 'name': 'Drama'}]",1995-05-19,0.0,0,6.1,4.093443
+124057,Kids of the Round Table,[],1997-07-08,0.0,0,3.0,0.307075
+9089,Home for the Holidays,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-11-02,17519169.0,0,6.3,8.416802
+11010,The Postman,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-09-22,0.0,0,7.6,10.168437
+99040,The Confessional,"[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",1995-09-29,0.0,0,6.5,0.120789
+11359,The Indian in the Cupboard,"[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1995-07-14,0.0,45000000,5.9,10.673296
+17182,Eye for an Eye,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-01-12,0.0,20000000,5.8,4.733526
+2054,Mr. Holland's Opus,"[{'id': 10402, 'name': 'Music'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1995-12-29,106269971.0,0,6.9,7.137117
+10607,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,"[{'id': 35, 'name': 'Comedy'}]",1996-01-12,0.0,0,6.2,11.700115
+19760,Two If by Sea,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1996-01-12,0.0,0,4.5,2.174487
+9536,Bio-Dome,"[{'id': 35, 'name': 'Comedy'}]",1996-01-12,0.0,15000000,4.4,6.387469
+11525,Lawnmower Man 2: Beyond Cyberspace,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",1996-01-12,2409225.0,0,2.8,2.49535
+40628,Two Bits,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1995-10-22,0.0,0,5.4,4.046208
+4482,French Twist,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1995-02-08,0.0,0,6.0,2.518051
+10634,Friday,"[{'id': 35, 'name': 'Comedy'}]",1995-04-26,28215918.0,3500000,7.0,14.56965
+755,From Dusk Till Dawn,"[{'id': 27, 'name': 'Horror'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",1996-01-19,25836616.0,19000000,6.9,15.339153
+11859,Fair Game,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 10749, 'name': 'Romance'}]",1995-11-03,11534477.0,50000000,4.1,5.912223
+28387,Kicking and Screaming,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-10-06,718490.0,0,7.0,3.367276
+48750,Les Miserables,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",1995-03-22,0.0,0,6.6,1.479446
+20927,Bed of Roses,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1996-01-26,19030691.0,0,5.1,10.412194
+36929,Big Bully,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1996-01-26,2042530.0,15000000,3.9,2.936443
+9102,Screamers,"[{'id': 27, 'name': 'Horror'}, {'id': 878, 'name': 'Science Fiction'}]",1995-09-08,5781885.0,20000000,6.1,12.758848
+124626,Nico Icon,"[{'id': 99, 'name': 'Documentary'}]",1995-02-18,0.0,0,7.3,0.133893
+27526,The Crossing Guard,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1995-11-15,0.0,0,6.1,5.756462
+9623,The Juror,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-02-02,0.0,44000000,5.5,6.010579
+46785,The White Balloon,"[{'id': 10751, 'name': 'Family'}, {'id': 18, 'name': 'Drama'}]",1995-01-01,0.0,0,7.5,1.196256
+400,Things to Do in Denver When You're Dead,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",1995-12-01,529766.0,8000000,6.7,4.486179
+880,Antonia's Line,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1995-09-12,0.0,900000,7.2,2.030174
+146599,Once Upon a Time... When We Were Colored,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",1996-01-26,0.0,0,4.5,0.252287
+188588,Last Summer in the Hamptons,[],1995-11-22,0.0,0,0.0,0.531159
+8447,Angels and Insects,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-09-10,0.0,0,6.3,2.15166
+10534,White Squall,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}]",1996-02-02,10300000.0,38000000,6.3,9.568604
+17414,Dunston Checks In,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1996-01-12,0.0,16000000,5.1,4.814825
+13997,Black Sheep,"[{'id': 35, 'name': 'Comedy'}]",1996-02-01,32.0,0,6.0,8.963037
+2086,Nick of Time,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1995-11-22,8175346.0,8169363,6.1,6.848591
+61548,The Journey of August King,"[{'id': 18, 'name': 'Drama'}]",1995-09-14,0.0,0,6.7,0.411424
+9095,Mary Reilly,"[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}, {'id': 10749, 'name': 'Romance'}]",1996-02-23,12379402.0,47000000,5.7,12.866139
+12158,Vampire in Brooklyn,"[{'id': 35, 'name': 'Comedy'}, {'id': 27, 'name': 'Horror'}, {'id': 10749, 'name': 'Romance'}]",1995-10-26,19800000.0,14000000,4.5,9.071127
+9283,Beautiful Girls,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1996-02-09,0.0,0,6.6,4.670562
+9208,Broken Arrow,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-02-09,150270147.0,50000000,5.7,14.957626
+40154,A Midwinter's Tale,"[{'id': 35, 'name': 'Comedy'}]",1995-12-01,0.0,0,7.5,0.513391
+406,La Haine,"[{'id': 18, 'name': 'Drama'}]",1995-05-31,0.0,3000000,7.9,12.108196
+45549,Shopping,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",1994-12-06,0.0,0,5.6,2.657647
+63076,Heidi Fleiss: Hollywood Madam,"[{'id': 99, 'name': 'Documentary'}]",1995-12-27,0.0,0,6.8,0.638211
+11062,City Hall,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-02-16,0.0,0,6.0,4.807223
+13685,Bottle Rocket,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1996-02-21,560069.0,7000000,6.8,6.904831
+47475,Mr. Wrong,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1996-02-16,0.0,0,3.3,3.329264
+2045,Unforgettable,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",1996-02-23,0.0,18000000,5.3,2.464425
+9614,Happy Gilmore,"[{'id': 35, 'name': 'Comedy'}]",1996-02-16,41205099.0,12000000,6.5,9.592265
+688,The Bridges of Madison County,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-05-28,182016617.0,24000000,7.3,5.951077
+11907,Nobody Loves Me,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1994-11-07,0.0,0,5.1,1.015068
+10874,Muppet Treasure Island,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}]",1996-02-16,34327391.0,0,6.5,6.902423
+89333,Catwalk,"[{'id': 99, 'name': 'Documentary'}]",1995-12-08,0.0,0,7.0,0.976707
+96357,Headless Body in Topless Bar,"[{'id': 80, 'name': 'Crime'}]",1995-05-20,0.0,0,0.0,0.001346
+197,Braveheart,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 10752, 'name': 'War'}]",1995-05-24,210000000.0,72000000,7.7,20.755149
+103,Taxi Driver,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1976-02-07,28262574.0,1300000,8.1,14.092713
+33542,Rumble in the Bronx,"[{'id': 80, 'name': 'Crime'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}]",1995-01-30,32392047.0,7500000,6.5,12.314278
+43566,Before and After,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-02-23,0.0,35000000,5.8,2.938293
+71754,Margaret's Museum,"[{'id': 18, 'name': 'Drama'}]",1995-09-13,0.0,0,7.5,0.372697
+43612,Happiness Is in the Field,"[{'id': 35, 'name': 'Comedy'}]",1995-01-31,0.0,13365000,7.0,1.254885
+51352,Anne Frank Remembered,"[{'id': 99, 'name': 'Documentary'}, {'id': 18, 'name': 'Drama'}, {'id': 10769, 'name': 'Foreign'}]",1995-06-08,1.0,0,7.3,0.243986
+16934,The Young Poisoner's Handbook,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1995-01-20,0.0,0,6.9,6.178497
+10324,If Lucy Fell,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1996-03-08,0.0,0,5.4,2.891918
+78406,Steal Big Steal Little,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1995-09-29,6278139.0,25000000,5.1,1.522412
+55731,Race the Sun,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1996-03-22,0.0,0,5.2,1.317878
+32119,The Boys of St. Vincent,"[{'id': 18, 'name': 'Drama'}]",1992-12-06,0.0,0,7.0,0.86539
+11066,Boomerang,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1992-06-30,70100000.0,40000000,5.4,6.506983
+11104,Chungking Express,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1994-07-14,0.0,0,7.9,6.778979
+37975,The Star Maker,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-09-21,0.0,0,6.8,1.702639
+2074,Flirting with Disaster,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1996-03-22,14702438.0,7000000,6.3,5.579088
+27793,The Neverending Story III: Escape from Fantasia,"[{'id': 14, 'name': 'Fantasy'}]",1994-10-26,0.0,17000000,4.4,6.252377
+44284,The Silences of the Palace,"[{'id': 18, 'name': 'Drama'}]",1994-09-30,0.0,0,4.3,0.406754
+290157,Jupiter's Wife,[],1995-01-01,0.0,0,0.0,0.001178
+110972,Pie in the Sky,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1996-02-09,0.0,0,7.0,0.699066
+32622,Angela,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1995-01-01,0.0,0,5.6,2.197439
+73067,Frankie Starlight,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 10752, 'name': 'War'}]",1995-11-22,0.0,0,5.4,0.637554
+11863,Jade,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}]",1995-10-13,9851610.0,50000000,5.1,11.418917
+55475,Nueba Yol,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-08-16,0.0,0,5.5,0.291021
+124636,Sonic Outlaws,"[{'id': 10402, 'name': 'Music'}, {'id': 99, 'name': 'Documentary'}]",1995-08-01,0.0,0,0.0,0.001838
+9101,Down Periscope,"[{'id': 35, 'name': 'Comedy'}]",1996-03-01,0.0,0,5.6,5.184977
+123360,From the Journals of Jean Seberg,"[{'id': 99, 'name': 'Documentary'}]",1995-09-08,0.0,0,6.5,0.276401
+5757,Man of the Year,"[{'id': 35, 'name': 'Comedy'}]",1995-09-15,209935.0,0,3.8,0.540436
+39428,The Neon Bible,"[{'id': 18, 'name': 'Drama'}]",1995-08-23,0.0,0,7.2,0.370342
+124639,Target,[],1995-08-01,0.0,0,0.0,0.001205
+9302,Up Close & Personal,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1996-03-01,0.0,60000000,5.9,3.402749
+11000,The Birdcage,"[{'id': 35, 'name': 'Comedy'}]",1996-03-08,185260553.0,31000000,6.7,6.49968
+249882,Virgin Mary,"[{'id': 18, 'name': 'Drama'}]",1995-10-12,0.0,0,7.0,0.918504
+16388,The Brothers McMullen,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-08-09,0.0,0,6.3,2.039196
+9737,Bad Boys,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",1995-04-07,141407024.0,19000000,6.5,9.262184
+30765,The Amazing Panda Adventure,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1995-08-25,0.0,0,5.0,2.375865
+10474,The Basketball Diaries,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",1995-04-21,0.0,0,7.2,7.415144
+22279,An Awfully Big Adventure,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1995-07-21,851545.0,4000000,6.0,0.922958
+30157,Amateur,"[{'id': 80, 'name': 'Crime'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1994-08-05,0.0,0,6.5,1.759012
+568,Apollo 13,"[{'id': 18, 'name': 'Drama'}]",1995-06-30,355237933.0,52000000,7.3,18.761467
+11780,Rob Roy,"[{'id': 12, 'name': 'Adventure'}]",1995-04-13,31596911.0,28000000,6.5,10.193549
+34996,The Addiction,"[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}]",1995-01-10,0.0,0,6.4,3.137285
+414,Batman Forever,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 14, 'name': 'Fantasy'}]",1995-06-16,336529144.0,100000000,5.2,13.321354
+649,Belle de Jour,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1967-05-24,0.0,0,7.3,10.142662
+1873,Beyond Rangoon,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1995-05-24,0.0,0,6.4,2.04189
+5894,Blue in the Face,"[{'id': 35, 'name': 'Comedy'}]",1995-09-15,1275000.0,2000000,6.8,11.528147
+1775,Canadian Bacon,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}]",1995-06-08,178104.0,11000000,5.9,5.391556
+8839,Casper,"[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1995-05-26,287928194.0,50000000,6.0,12.812539
+20649,Clockers,"[{'id': 9648, 'name': 'Mystery'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1995-09-15,13071518.0,25000000,6.8,4.558992
+10329,Congo,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",1995-06-09,152022101.0,50000000,5.0,7.260574
+8963,Crimson Tide,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}]",1995-05-12,157387195.0,53000000,7.0,8.657365
+26564,Crumb,"[{'id': 99, 'name': 'Documentary'}]",1994-09-10,3174695.0,0,7.6,3.620388
+8068,Desperado,"[{'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]",1995-08-25,25405445.0,7000000,6.8,6.950458
+8512,Devil in a Blue Dress,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1995-09-15,16140822.0,27000000,6.3,4.646132
+1572,Die Hard: With a Vengeance,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1995-05-19,366101666.0,90000000,6.9,15.138855
+13552,The Doom Generation,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1995-10-27,0.0,0,5.6,7.120806
+259209,Feast of July,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",1995-10-12,0.0,0,0.0,0.523575
+6520,First Knight,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-07-07,127600435.0,55000000,5.9,15.178338
+9073,Free Willy 2 - The Adventure Home,"[{'id': 12, 'name': 'Adventure'}]",1995-07-19,0.0,0,5.5,7.575098
+10428,Hackers,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}]",1995-09-14,7563728.0,20000000,6.2,14.810519
+17447,Jeffrey,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-08-18,0.0,0,6.5,3.196456
+9886,Johnny Mnemonic,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",1995-05-26,19075720.0,25000000,5.5,11.715868
+9482,Judge Dredd,"[{'id': 878, 'name': 'Science Fiction'}]",1995-06-30,113493481.0,90000000,5.4,8.184815
+19326,Jury Duty,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1995-04-12,17014653.0,0,4.0,3.676921
+9344,Kids,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",1995-07-28,7412216.0,1500000,6.8,4.877872
+9071,Living in Oblivion,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1995-01-20,1148752.0,500000,7.2,10.058329
+8973,Lord of Illusions,"[{'id': 9648, 'name': 'Mystery'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",1995-08-25,0.0,0,5.9,4.102409
+15730,Love & Human Remains,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1993-05-20,0.0,0,7.0,0.354014
+47608,Mad Love,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 10749, 'name': 'Romance'}]",1995-05-26,15453274.0,0,5.5,2.624771
+2293,Mallrats,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]",1995-10-20,2122561.0,6000000,6.8,8.25547
+9070,Mighty Morphin Power Rangers: The Movie,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1995-06-30,66000000.0,15000000,5.2,7.024227
+68274,Moonlight and Valentino,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-09-29,0.0,0,5.6,1.01115
+48787,Mute Witness,"[{'id': 53, 'name': 'Thriller'}, {'id': 10769, 'name': 'Foreign'}]",1995-09-28,1.0,2,6.4,2.466066
+34574,Nadja,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",1994-09-13,0.0,0,5.9,7.720056
+1642,The Net,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}]",1995-07-28,110627965.0,22000000,5.6,13.304342
+11472,Nine Months,"[{'id': 35, 'name': 'Comedy'}]",1995-07-12,69660733.0,0,5.5,8.482834
+36196,Party Girl,"[{'id': 35, 'name': 'Comedy'}]",1995-06-09,472370.0,150000,5.8,1.165039
+11980,The Prophecy,"[{'id': 14, 'name': 'Fantasy'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",1995-09-01,16.0,8,6.4,10.187623
+58372,Reckless,"[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1995-11-17,0.0,0,10.0,0.119713
+32646,Safe,"[{'id': 18, 'name': 'Drama'}]",1995-06-23,0.0,0,7.2,8.180047
+10533,The Scarlet Letter,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 10749, 'name': 'Romance'}]",1995-10-13,10382407.0,50000000,5.5,6.752119
+56088,The Show,"[{'id': 99, 'name': 'Documentary'}]",1995-08-25,0.0,0,5.3,0.159596
+10802,Showgirls,"[{'id': 18, 'name': 'Drama'}]",1995-09-22,20350754.0,45000000,4.9,17.502375
+10149,Smoke,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1995-06-09,8349430.0,7000000,7.2,5.552946
+18402,Something to Talk About,"[{'id': 35, 'name': 'Comedy'}]",1995-08-04,50892160.0,0,5.7,3.743212
+9348,Species,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 27, 'name': 'Horror'}, {'id': 28, 'name': 'Action'}]",1995-07-07,113374103.0,35000000,5.5,13.492845
+139408,The Stars Fell on Henrietta,"[{'id': 18, 'name': 'Drama'}]",1995-09-15,0.0,0,6.6,0.913522
+281,Strange Days,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",1995-10-13,7959291.0,42000000,6.8,11.223055
+5967,The Umbrellas of Cherbourg,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1964-02-19,0.0,0,7.6,8.133881
+79593,The Tie That Binds,"[{'id': 53, 'name': 'Thriller'}]",1995-09-08,5780000.0,14000000,4.6,1.820419
+47939,Three Wishes,"[{'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}]",1995-10-27,7025496.0,0,6.1,11.002046
+36834,Total Eclipse,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-11-02,339889.0,0,6.5,4.546552
+9090,"To Wong Foo, Thanks for Everything! Julie Newmar","[{'id': 35, 'name': 'Comedy'}]",1995-09-07,47774193.0,0,6.3,7.653446
+3512,Under Siege 2: Dark Territory,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1995-07-13,104324083.0,60000000,5.6,7.490247
+52856,Unstrung Heroes,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1995-09-15,0.0,0,6.4,2.881689
+77350,Unzipped,"[{'id': 99, 'name': 'Documentary'}]",1995-08-11,0.0,0,6.0,0.786023
+9560,A Walk in the Clouds,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-08-11,50012507.0,20000000,6.5,9.715639
+9804,Waterworld,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}]",1995-07-28,264218220.0,175000000,5.9,16.885184
+31611,White Man's Burden,"[{'id': 18, 'name': 'Drama'}]",1995-12-01,0.0,8000000,5.1,1.834099
+65796,Wild Bill,"[{'id': 28, 'name': 'Action'}, {'id': 37, 'name': 'Western'}]",1995-12-01,0.0,30000000,5.9,8.922139
+49805,The Browning Version,"[{'id': 18, 'name': 'Drama'}]",1994-10-12,0.0,0,6.0,3.727644
+26258,Bushwhacked,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 10751, 'name': 'Family'}]",1995-08-04,0.0,0,4.9,3.287036
+50797,Burnt by the Sun,"[{'id': 18, 'name': 'Drama'}]",1994-05-01,2616503.0,2800000,6.7,2.486073
+19155,Before the Rain,"[{'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]",1994-06-09,763847.0,0,7.7,3.525649
+76,Before Sunrise,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-01-27,5535405.0,2500000,7.7,11.304979
+11017,Billy Madison,"[{'id': 35, 'name': 'Comedy'}]",1995-02-10,26488734.0,10000000,6.2,6.638116
+37141,The Babysitter,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1995-10-17,0.0,0,4.7,2.761837
+9382,Boys on the Side,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1995-02-03,23450000.0,21000000,6.3,3.030309
+6715,The Cure,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1995-04-21,0.0,0,7.2,2.686342
+18256,Castle Freak,"[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 9648, 'name': 'Mystery'}]",1995-08-04,0.0,0,5.8,2.26977
+22625,Circle of Friends,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 10749, 'name': 'Romance'}]",1995-03-16,0.0,0,6.5,2.605521
+2292,Clerks,"[{'id': 35, 'name': 'Comedy'}]",1994-09-13,3151130.0,27000,7.4,10.513367
+1909,Don Juan DeMarco,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1994-10-01,22200000.0,25000000,6.3,7.438934
+8984,Disclosure,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}]",1994-12-09,214015089.0,55000000,5.9,11.812244
+61813,Dream Man,"[{'id': 53, 'name': 'Thriller'}]",1995-01-01,0.0,0,2.5,0.155859
+4954,Drop Zone,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",1994-12-08,0.0,45000000,5.1,9.579155
+62488,Destiny Turns on the Radio,"[{'id': 80, 'name': 'Crime'}, {'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}]",1995-04-28,0.0,0,5.3,0.710671
+10531,Death and the Maiden,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]",1994-05-04,0.0,0,7.1,5.484156
+11929,Dolores Claiborne,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",1995-03-24,0.0,0,7.1,5.8025
+8467,Dumb and Dumber,"[{'id': 35, 'name': 'Comedy'}]",1994-12-16,247275374.0,16000000,6.5,9.844558
+10451,Eat Drink Man Woman,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-08-03,7294403.0,0,7.5,4.860016
+20156,Exotica,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",1994-09-24,0.0,0,6.5,5.378467
+18395,Exit to Eden,"[{'id': 53, 'name': 'Thriller'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 10749, 'name': 'Romance'}]",1994-10-14,6841570.0,0,4.3,4.322726
+522,Ed Wood,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",1994-09-27,5887457.0,18000000,7.3,11.720358
+397,French Kiss,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1995-05-05,0.0,0,6.2,9.146544
+10525,Forget Paris,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-05-19,0.0,0,6.1,16.236745
+27985,Far from Home: The Adventures of Yellow Dog,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1995-01-13,0.0,0,5.6,2.657337
+15789,A Goofy Movie,"[{'id': 10749, 'name': 'Romance'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 35, 'name': 'Comedy'}, {'id': 12, 'name': 'Adventure'}]",1995-04-07,35348597.0,0,6.7,10.177977
+27303,Hideaway,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1995-03-03,12201255.0,15000000,5.0,8.182165
+21183,Fluke,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1995-06-02,0.0,0,6.6,4.953936
+10954,Farinelli,"[{'id': 36, 'name': 'History'}, {'id': 18, 'name': 'Drama'}]",1994-12-07,0.0,0,5.9,8.935058
+47867,Gordy,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1995-05-12,3992809.0,0,3.0,0.398924
+43475,Gumby: The Movie,"[{'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 10751, 'name': 'Family'}]",1995-12-01,0.0,0,5.0,0.090452
+72031,The Glass Shield,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",1994-09-16,0.0,0,5.4,1.012197
+14275,Hoop Dreams,"[{'id': 99, 'name': 'Documentary'}]",1994-09-12,7830611.0,700000,7.7,9.47666
+1024,Heavenly Creatures,"[{'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}]",1994-09-02,3049135.0,5000000,6.9,9.438042
+17207,Houseguest,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1995-01-06,26325256.0,10500000,6.0,2.688562
+13701,Immortal Beloved,"[{'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]",1994-12-16,0.0,120,6.9,7.983666
+14819,Heavyweights,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 18, 'name': 'Drama'}]",1995-02-17,17689177.0,0,6.0,9.546707
+32631,The Hunted,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1995-02-24,0.0,0,6.0,2.756986
+11777,I.Q.,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-12-24,0.0,25000000,5.9,5.146352
+628,Interview with the Vampire,"[{'id': 27, 'name': 'Horror'}, {'id': 10749, 'name': 'Romance'}]",1994-11-11,223664608.0,60000000,7.2,11.970205
+87729,Jefferson in Paris,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-03-31,2474000.0,14000000,5.2,1.596058
+18713,The Jerky Boys,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",1995-02-03,0.0,0,4.8,0.748846
+6280,Junior,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 10749, 'name': 'Romance'}]",1994-11-22,37000000.0,60000000,4.7,6.710215
+9061,Just Cause,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1995-02-17,0.0,0,6.0,9.195256
+37108,A Kid in King Arthur's Court,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 10751, 'name': 'Family'}]",1995-08-11,0.0,0,4.3,5.874511
+6071,Kiss of Death,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1995-04-21,0.0,40000000,5.7,7.797512
+11,Star Wars,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",1977-05-25,775398007.0,11000000,8.1,42.149697
+9587,Little Women,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-12-21,0.0,18000000,7.0,9.774994
+19101,A Little Princess,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1995-05-10,0.0,17000000,7.4,7.731725
+49980,Ladybird Ladybird,"[{'id': 18, 'name': 'Drama'}]",1994-02-18,0.0,0,7.4,0.84508
+17961,L'Enfer,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1994-02-16,0.0,10000000,6.6,1.948315
+18183,Like Water for Chocolate,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1992-04-16,21665468.0,2000000,6.6,4.126083
+4476,Legends of the Fall,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 10752, 'name': 'War'}]",1994-12-16,160638883.0,30000000,7.2,12.199047
+11008,Major Payne,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1995-03-24,0.0,0,6.1,9.253362
+47504,Little Odessa,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}]",1994-10-27,0.0,0,6.4,1.861292
+32325,Mi Vida Loca,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1994-06-08,0.0,0,5.7,1.788829
+43742,Love Affair,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-10-21,0.0,60000000,4.3,3.290192
+28313,Losing Isaiah,"[{'id': 18, 'name': 'Drama'}]",1995-03-17,7603766.0,17000000,6.4,7.698526
+11318,The Madness of King George,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",1994-12-28,0.0,0,6.7,4.81307
+3036,Mary Shelley's Frankenstein,"[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 10749, 'name': 'Romance'}]",1994-11-04,112006296.0,45000000,6.1,14.287753
+40490,Man of the House,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1995-03-03,0.0,0,5.1,2.558118
+24070,Mixed Nuts,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-12-21,0.0,15000000,5.2,2.899608
+8986,Milk Money,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1994-08-31,18137661.0,0,5.6,3.770115
+10510,Miracle on 34th Street,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1994-11-18,46264384.0,0,6.4,5.831622
+17402,Miami Rhapsody,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1995-01-27,5.0,6,5.6,1.137266
+38722,My Family,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1995-05-03,0.0,5500000,7.0,3.121288
+8438,Murder in the First,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1995-01-20,17381942.0,0,6.9,9.518564
+11593,Nobody's Fool,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1994-12-23,0.0,0,7.0,2.891269
+1945,Nell,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1994-12-23,106683817.0,31000000,6.1,5.930957
+39310,New Jersey Drive,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1995-04-19,0.0,0,6.9,0.629955
+109560,New York Cop,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1993-08-14,0.0,0,0.0,0.004537
+56428,Beyond Bedlam,"[{'id': 27, 'name': 'Horror'}]",1994-04-22,0.0,4800000,4.0,0.426952
+63105,Nemesis 2 - Nebula,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1995-09-26,0.0,0,4.6,1.466491
+131957,Nina Takes a Lover,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-03-03,0.0,0,7.4,0.769522
+241,Natural Born Killers,"[{'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}]",1994-08-25,50282766.0,34000000,6.9,11.226856
+9058,Only You,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-09-17,0.0,0,6.4,4.936761
+527,Once Were Warriors,"[{'id': 18, 'name': 'Drama'}]",1994-09-02,2201126.0,0,7.6,4.025276
+18220,Poison Ivy II: Lily,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]",1996-01-16,0.0,0,4.6,6.448039
+6950,Outbreak,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",1995-03-10,189859560.0,50000000,6.4,13.676444
+101,Leon: The Professional,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1994-09-14,45284974.0,16000000,8.2,20.477329
+63020,The Perez Family,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-05-12,2832826.0,11000000,6.6,1.433544
+2307,A Pyromaniac's Love Story,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-04-28,0.0,0,7.0,0.463307
+680,Pulp Fiction,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",1994-09-10,213928762.0,8000000,8.3,140.950236
+41478,Panther,"[{'id': 18, 'name': 'Drama'}]",1995-11-10,6834525.0,0,6.4,7.160149
+25296,Pushing Hands,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1992-02-01,152322.0,400000,6.1,1.638622
+40156,Priest,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-01-01,4176932.0,0,6.4,1.881932
+11450,Quiz Show,"[{'id': 36, 'name': 'History'}, {'id': 18, 'name': 'Drama'}]",1994-09-16,0.0,0,7.1,7.772505
+30304,Picture Bride,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",1995-05-05,0.0,0,7.4,1.296912
+10452,Queen Margot,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",1994-05-13,0.0,0,7.0,4.405405
+12106,The Quick and the Dead,"[{'id': 28, 'name': 'Action'}, {'id': 37, 'name': 'Western'}]",1995-02-09,18552460.0,32000000,6.2,7.54701
+161495,Roommates,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1995-03-01,12400000.0,22000000,6.4,3.395867
+3586,Prêt-à-Porter,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1994-12-23,11300653.0,15000000,5.3,6.259433
+110,Three Colors: Red,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}]",1994-05-27,0.0,0,7.8,7.832755
+108,Three Colors: Blue,"[{'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}, {'id': 9648, 'name': 'Mystery'}]",1993-01-10,0.0,0,7.7,8.843517
+109,Three Colors: White,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",1994-01-26,0.0,0,7.3,6.5898
+159185,"Red Firecracker, Green Firecracker","[{'id': 18, 'name': 'Drama'}]",1994-10-14,0.0,0,7.0,0.078257
+36357,Rent-a-Kid,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 10770, 'name': 'TV Movie'}]",1995-01-01,0.0,0,5.1,1.155255
+92769,Relative Fear,"[{'id': 27, 'name': 'Horror'}, {'id': 18, 'name': 'Drama'}]",1995-10-03,0.0,0,4.7,0.499601
+28033,Stuart Saves His Family,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1995-04-12,0.0,0,5.0,1.390885
+22586,The Swan Princess,"[{'id': 16, 'name': 'Animation'}]",1994-11-18,9771658.0,35000000,6.5,8.910462
+14334,The Secret of Roan Inish,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1994-01-01,0.0,0,6.1,1.750481
+2636,The Specialist,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1994-10-07,170362582.0,45000000,5.5,10.388183
+2164,Stargate,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",1994-10-27,196567262.0,55000000,6.8,13.328924
+11395,The Santa Clause,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1994-11-10,189833357.0,22000000,6.3,9.665424
+278,The Shawshank Redemption,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",1994-09-23,28341469.0,25000000,8.5,51.645403
+9905,Shallow Grave,"[{'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",1994-12-22,0.0,0,7.0,8.223026
+87078,Suture,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1993-09-14,102780.0,0,6.0,1.298224
+12527,Strawberry and Chocolate,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1993-01-01,0.0,0,7.1,1.777197
+20306,Swimming with Sharks,"[{'id': 80, 'name': 'Crime'}, {'id': 35, 'name': 'Comedy'}]",1994-09-10,0.0,0,6.7,5.869261
+36614,The Sum of Us,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-07-12,0.0,32,6.0,1.407427
+27993,Senior Trip,"[{'id': 35, 'name': 'Comedy'}]",1995-09-08,0.0,0,5.7,5.05806
+31439,To Live,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 10752, 'name': 'War'}]",1994-06-30,0.0,0,7.7,5.260627
+9067,Tank Girl,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",1995-03-31,4064495.0,25000000,5.5,7.602087
+9059,Tales from the Crypt: Demon Knight,"[{'id': 27, 'name': 'Horror'}, {'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}]",1995-01-13,0.0,0,6.7,9.455342
+193,Star Trek: Generations,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",1994-11-17,120000000.0,38000000,6.4,8.105708
+25066,Tales from the Hood,"[{'id': 80, 'name': 'Crime'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",1995-05-24,12000000.0,6000000,5.4,2.86007
+46797,Tom & Viv,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-04-15,0.0,0,5.8,0.704204
+12122,Village of the Damned,"[{'id': 53, 'name': 'Thriller'}, {'id': 27, 'name': 'Horror'}, {'id': 878, 'name': 'Science Fiction'}]",1995-04-28,0.0,0,5.6,6.529879
+11381,Tommy Boy,"[{'id': 35, 'name': 'Comedy'}]",1995-03-31,32648673.0,0,6.8,11.971318
+32636,Vanya on 42nd Street,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-09-13,0.0,0,6.1,7.039846
+36141,The Underneath,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",1995-04-28,0.0,6500000,5.6,2.059771
+95963,The Walking Dead,"[{'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]",1995-02-24,0.0,0,6.6,0.620873
+1587,What's Eating Gilbert Grape,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",1993-12-17,10032765.0,11000000,7.5,10.3919
+9271,Virtuosity,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",1995-08-04,24048000.0,30000000,5.4,5.188399
+2064,While You Were Sleeping,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-04-21,182057016.0,17000000,6.5,15.783615
+19855,The War,"[{'id': 18, 'name': 'Drama'}]",1994-11-04,0.0,0,6.3,3.908596
+60855,Double Happiness,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1994-09-07,759393.0,0,5.5,0.372239
+236,Muriel's Wedding,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1994-09-29,15119639.0,3000000,6.9,5.254847
+48287,The Baby-Sitters Club,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1995-08-18,0.0,0,5.3,2.15805
+3049,Ace Ventura: Pet Detective,"[{'id': 35, 'name': 'Comedy'}, {'id': 9648, 'name': 'Mystery'}]",1994-02-04,107217396.0,15000000,6.4,11.247957
+2759,"The Adventures of Priscilla, Queen of the Desert","[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1994-05-31,11220670.0,0,7.2,8.328596
+12635,Backbeat,"[{'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}]",1994-04-01,0.0,0,6.2,2.487951
+10497,Bitter Moon,"[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1992-09-02,1862805.0,5000000,7.0,11.298195
+11382,Bullets Over Broadway,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}]",1994-10-14,0.0,0,7.0,5.72288
+9331,Clear and Present Danger,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1994-08-03,215887717.0,62000000,6.4,7.513245
+10731,The Client,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}]",1994-07-20,117615211.0,45000000,6.4,15.263829
+10464,"Corrina, Corrina","[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 10749, 'name': 'Romance'}]",1994-08-12,0.0,0,6.4,6.924689
+34152,Crooklyn,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1994-05-13,0.0,0,6.7,2.533022
+9495,The Crow,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1994-05-11,94000000.0,15000000,7.3,15.799336
+29973,Cobb,"[{'id': 18, 'name': 'Drama'}]",1994-12-02,1007583.0,0,6.1,2.583363
+888,The Flintstones,"[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1994-05-26,341631208.0,46000000,5.0,15.019586
+13,Forrest Gump,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-07-06,677945399.0,55000000,8.2,48.307194
+712,Four Weddings and a Funeral,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-03-09,254700832.0,6000000,6.6,8.990345
+16295,Higher Learning,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",1995-01-11,38290723.0,0,6.4,7.817811
+48992,I Like It Like That,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-10-14,1777020.0,0,6.3,0.289295
+10879,I Love Trouble,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1994-06-29,61947267.0,45000000,5.3,3.570874
+10660,It Could Happen to You,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-07-29,0.0,0,6.1,11.272073
+10714,The Jungle Book,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1994-12-23,0.0,0,5.9,10.714235
+41647,"The Wonderful, Horrible Life of Leni Riefenstahl","[{'id': 99, 'name': 'Documentary'}, {'id': 10769, 'name': 'Foreign'}]",1993-09-11,449707.0,0,7.3,0.568884
+8587,The Lion King,"[{'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}, {'id': 18, 'name': 'Drama'}]",1994-06-23,788241776.0,45000000,8.0,21.605761
+1689,Little Buddha,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",1993-12-01,4858139.0,35000000,6.0,5.681522
+11596,New Nightmare,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}, {'id': 14, 'name': 'Fantasy'}]",1994-10-13,18090181.0,14000000,6.4,9.860522
+854,The Mask,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 14, 'name': 'Fantasy'}]",1994-07-29,351583407.0,23000000,6.6,14.13488
+9359,Maverick,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 37, 'name': 'Western'}]",1994-05-20,0.0,0,6.6,15.050326
+23333,Mrs. Parker and the Vicious Circle,"[{'id': 18, 'name': 'Drama'}]",1994-09-07,0.0,0,6.3,4.739054
+36593,The Naked Gun 33⅓: The Final Insult,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",1994-03-18,51132598.0,30000000,6.4,10.587232
+12280,The Paper,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1994-03-18,0.0,6000000,6.1,4.006063
+2788,Reality Bites,"[{'id': 18, 'name': 'Drama'}]",1994-02-18,20079850.0,11500000,6.5,6.514592
+10427,Red Rock West,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1993-07-08,2000000.0,8000000,6.4,5.137903
+11011,Ri¢hie Ri¢h,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1994-12-19,0.0,40000000,5.4,6.595255
+49803,Safe Passage,"[{'id': 18, 'name': 'Drama'}]",1994-12-01,0.0,0,4.9,4.931565
+8987,The River Wild,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",1994-09-30,0.0,45000000,6.1,10.511241
+1637,Speed,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}]",1994-06-09,350448145.0,30000000,6.8,10.859292
+15128,Speechless,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1994-12-16,0.0,0,5.5,2.334226
+8831,Timecop,"[{'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]",1994-09-15,101646581.0,27000000,5.5,8.907074
+36955,True Lies,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1994-07-14,378882411.0,115000000,6.8,11.396099
+10449,When a Man Loves a Woman,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-04-29,50021959.0,0,6.0,4.322544
+10395,Wolf,"[{'id': 14, 'name': 'Fantasy'}]",1994-06-17,0.0,0,6.0,14.063845
+12160,Wyatt Earp,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 37, 'name': 'Western'}]",1994-06-24,25052000.0,63000000,6.5,9.277147
+40480,Bad Company,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]",1995-01-20,0.0,0,4.9,0.912415
+52038,A Man of No Importance,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1994-12-22,953.0,0,6.5,0.406113
+29444,S.F.W.,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1994-09-15,0.0,0,6.1,2.504529
+26352,A Low Down Dirty Shame,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",1994-11-23,29392418.0,10000000,6.0,3.021526
+39953,"Boys Life: Three Stories of Love, Lust, and Liberation","[{'id': 18, 'name': 'Drama'}]",1994-09-30,0.0,0,2.0,0.054148
+41580,Colonel Chabert,"[{'id': 18, 'name': 'Drama'}]",1994-01-01,0.0,0,5.9,0.934312
+315,"Faster, Pussycat! Kill! Kill!","[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]",1965-08-06,0.0,45000,6.5,4.220541
+22067,Jason's Lyric,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-09-28,20851521.0,7000000,5.9,0.912909
+18242,The Secret Adventures of Tom Thumb,"[{'id': 16, 'name': 'Animation'}, {'id': 878, 'name': 'Science Fiction'}]",1993-12-10,0.0,0,7.1,0.381704
+11667,Street Fighter,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",1994-12-22,99423521.0,35000000,4.1,13.58449
+32502,Coldblooded,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}]",1995-09-15,0.0,0,6.7,2.342756
+267188,Desert Winds,[],1997-12-31,0.0,0,0.0,0.251223
+28732,Fall Time,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1995-05-13,0.0,0,6.3,1.108494
+75555,The Fear,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",1995-01-20,0.0,0,3.4,0.268043
+42981,Frank and Ollie,"[{'id': 99, 'name': 'Documentary'}]",1995-10-20,0.0,0,7.5,0.142357
+278939,Girl in the Cadillac,"[{'id': 10749, 'name': 'Romance'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1995-10-24,0.0,0,10.0,0.405392
+291731,Homage,"[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}]",1995-05-03,0.0,0,0.0,0.014925
+226229,Mirage,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1995-11-21,0.0,0,4.0,0.302957
+203119,Open Season,"[{'id': 35, 'name': 'Comedy'}]",1996-05-03,0.0,0,0.0,0.012456
+172923,Dos Crímenes,[],1995-05-26,0.0,0,5.0,0.233376
+316098,Brother Minister: The Assassination of Malcolm X,"[{'id': 99, 'name': 'Documentary'}]",1995-03-01,0.0,0,4.0,0.0368
+8011,Highlander: The Final Dimension,"[{'id': 28, 'name': 'Action'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",1994-11-29,36800000.0,26000000,4.5,6.866634
+171857,Federal Hill,[],1995-02-24,0.0,0,5.0,0.100685
+2654,In the Mouth of Madness,"[{'id': 27, 'name': 'Horror'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1994-12-12,8946600.0,8000000,7.1,8.497643
+18069,8 Seconds,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-02-25,0.0,0,7.2,1.888534
+19092,Above the Rim,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1994-03-23,0.0,0,6.7,4.38154
+2758,Addams Family Values,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1993-11-19,48919043.0,0,6.5,17.555909
+38129,Martin Lawrence: You So Crazy,"[{'id': 35, 'name': 'Comedy'}]",1994-04-27,0.0,0,4.5,0.394194
+10436,The Age of Innocence,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1993-09-17,32255440.0,34000000,7.0,8.013617
+13595,Airheads,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 10402, 'name': 'Music'}]",1994-08-05,0.0,0,5.8,7.09232
+46094,The Air Up There,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1994-01-07,21011500.0,17080000,5.1,1.896273
+9409,Another Stakeout,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}]",1993-07-22,0.0,0,4.9,12.967239
+11853,Bad Girls,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 37, 'name': 'Western'}]",1994-04-22,15240435.0,0,4.6,14.644772
+16771,Barcelona,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-07-29,0.0,3200000,6.6,1.632711
+46924,Being Human,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}]",1994-05-06,0.0,40000000,5.0,2.783872
+11041,The Beverly Hillbillies,"[{'id': 35, 'name': 'Comedy'}]",1993-10-15,0.0,0,5.0,5.673735
+306,Beverly Hills Cop III,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",1994-05-24,119208989.0,50000000,5.5,11.787784
+14522,Black Beauty,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1994-07-29,0.0,0,6.6,8.398845
+26203,Blink,"[{'id': 9648, 'name': 'Mystery'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1994-01-26,16668552.0,0,6.3,3.00282
+178,Blown Away,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1994-07-01,30156002.0,0,6.0,13.155071
+19819,Blue Chips,"[{'id': 18, 'name': 'Drama'}]",1994-02-18,0.0,0,5.7,6.131056
+57834,Blue Sky,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-09-16,0.0,0,6.1,4.993829
+4722,Body Snatchers,"[{'id': 27, 'name': 'Horror'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",1993-06-09,428868.0,13000000,5.8,6.559693
+18215,Boxing Helena,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1993-06-18,1796389.0,0,4.5,4.304224
+1607,A Bronx Tale,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",1993-09-14,17287898.0,22000000,7.4,6.115628
+26391,Cabin Boy,"[{'id': 35, 'name': 'Comedy'}]",1994-01-07,3662459.0,0,4.9,1.679042
+117553,Calendar Girl,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1993-09-03,2570145.0,13000000,3.7,1.316741
+6075,Carlito's Way,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1993-11-10,36516012.0,30000000,7.7,8.698509
+11310,City Slickers II: The Legend of Curly's Gold,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 37, 'name': 'Western'}]",1994-06-10,0.0,0,4.9,8.605703
+18658,Clean Slate,"[{'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]",1994-05-06,7355425.0,0,5.7,2.724621
+9350,Cliffhanger,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",1993-05-28,255000211.0,70000000,6.1,9.830853
+9612,Coneheads,"[{'id': 35, 'name': 'Comedy'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 10751, 'name': 'Family'}]",1993-07-23,0.0,0,4.8,10.722729
+2124,Color of Night,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]",1994-08-19,19726050.0,40000000,5.4,14.228963
+26261,Cops & Robbersons,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1994-04-15,0.0,0,5.0,7.042878
+19176,The Cowboy Way,"[{'id': 37, 'name': 'Western'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}]",1994-06-03,0.0,0,5.1,4.286279
+49299,Dangerous Game,"[{'id': 18, 'name': 'Drama'}]",1993-11-19,0.0,0,5.4,2.70097
+11566,Dave,"[{'id': 35, 'name': 'Comedy'}]",1993-05-07,63000000.0,0,6.3,13.696394
+9571,Dazed and Confused,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1993-09-24,7993039.0,6900000,7.4,6.8652
+9739,Demolition Man,"[{'id': 80, 'name': 'Crime'}, {'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",1993-10-08,159055768.0,57000000,6.4,11.626116
+24257,The Endless Summer 2,"[{'id': 99, 'name': 'Documentary'}]",1994-06-03,0.0,0,7.1,0.408159
+34444,Even Cowgirls Get the Blues,"[{'id': 37, 'name': 'Western'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1994-05-13,0.0,8000000,4.2,2.970724
+26141,Fatal Instinct,"[{'id': 35, 'name': 'Comedy'}]",1993-10-29,0.0,0,5.4,3.555139
+10997,Farewell My Concubine,"[{'id': 18, 'name': 'Drama'}]",1993-09-16,0.0,0,7.8,4.875827
+50463,The Favor,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1994-04-29,0.0,0,3.3,1.344876
+10443,Fearless,"[{'id': 18, 'name': 'Drama'}]",1993-10-15,0.0,0,6.8,9.284624
+20239,Fear of a Black Hat,"[{'id': 35, 'name': 'Comedy'}]",1994-10-28,0.0,0,5.8,0.985441
+16297,With Honors,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1994-04-29,0.0,0,6.1,2.969003
+18551,Flesh and Bone,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}]",1993-11-05,9488998.0,0,6.2,1.896869
+25440,Widows' Peak,"[{'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}, {'id': 10769, 'name': 'Foreign'}]",1994-05-13,0.0,0,4.3,0.409427
+9024,For Love or Money,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1993-10-01,11146270.0,30000000,5.7,8.468869
+37233,The Firm,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1993-06-30,270248367.0,42000000,6.6,9.678367
+1634,Free Willy,"[{'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}]",1993-07-16,153698625.0,20000000,6.0,5.990572
+13815,Fresh,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1994-08-24,0.0,0,7.6,3.970215
+5503,The Fugitive,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}]",1993-08-06,368875760.0,44000000,7.2,10.08937
+35588,Geronimo: An American Legend,"[{'id': 36, 'name': 'History'}, {'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 37, 'name': 'Western'}]",1993-12-10,18635620.0,35000000,5.9,4.653462
+2087,The Getaway,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1994-02-11,30.0,0,5.4,14.214403
+41579,Getting Even with Dad,"[{'id': 10751, 'name': 'Family'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",1994-06-17,0.0,30000000,4.5,2.410545
+18620,Go Fish,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-06-10,0.0,0,3.9,0.775898
+41006,A Good Man in Africa,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1994-07-14,0.0,0,5.2,5.22583
+4916,Guilty as Sin,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1993-06-04,22886222.0,0,5.6,5.385108
+2019,Hard Target,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",1993-08-20,74189677.0,18000000,6.1,7.834351
+31642,Heaven & Earth,"[{'id': 36, 'name': 'History'}, {'id': 10752, 'name': 'War'}, {'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}]",1993-12-24,0.0,33000000,6.4,4.190541
+9255,Hot Shots! Part Deux,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 10752, 'name': 'War'}]",1993-05-21,133752825.0,25000000,6.2,13.482371
+26271,Live Nude Girls,"[{'id': 35, 'name': 'Comedy'}]",1995-12-08,0.0,0,4.7,2.138959
+10612,The Englishman Who Went Up a Hill But Came Down a Mountain,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1995-05-12,0.0,0,6.1,5.331753
+2259,The House of the Spirits,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",1993-10-19,0.0,25000000,6.7,10.687795
+16097,House Party 3,"[{'id': 35, 'name': 'Comedy'}]",1994-01-01,0.0,0,4.6,0.996047
+11934,The Hudsucker Proxy,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1994-03-11,0.0,30000000,7.1,7.550545
+106143,I'll Do Anything,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1994-02-04,0.0,40000000,5.7,1.742974
+12475,In the Army Now,"[{'id': 35, 'name': 'Comedy'}]",1994-08-12,28881266.0,0,4.7,6.071466
+9386,In the Line of Fire,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}]",1993-07-08,176997168.0,40000000,6.8,12.637158
+7984,In the Name of the Father,"[{'id': 18, 'name': 'Drama'}]",1993-12-12,65796862.0,13000000,7.6,7.405895
+59930,The Inkwell,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-04-22,8880705.0,0,3.9,0.613335
+15765,What's Love Got to Do with It,"[{'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}]",1993-06-09,0.0,0,6.9,14.820883
+31643,Jimmy Hollywood,"[{'id': 35, 'name': 'Comedy'}]",1994-03-30,0.0,30000000,4.6,4.563989
+6,Judgment Night,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",1993-10-15,12136938.0,0,6.4,5.538671
+329,Jurassic Park,"[{'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",1993-06-11,920100000.0,63000000,7.6,8.863776
+10909,Kalifornia,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",1993-09-01,2395231.0,9000000,6.5,8.4337
+507,Killing Zoe,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1993-10-01,418961.0,1500000,6.1,4.948569
+34024,King of the Hill,"[{'id': 18, 'name': 'Drama'}]",1993-08-20,0.0,0,6.4,4.375347
+29918,Lassie,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1994-07-22,0.0,0,6.1,3.645342
+9593,Last Action Hero,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1993-06-18,137298489.0,85000000,6.1,9.434006
+42580,Life With Mikey,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1993-06-04,0.0,0,5.1,6.446229
+22317,Lightning Jack,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 37, 'name': 'Western'}]",1994-03-11,0.0,0,5.7,2.913584
+1413,M. Butterfly,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1993-09-09,1499795.0,0,6.6,6.516976
+12121,Made in America,"[{'id': 35, 'name': 'Comedy'}]",1993-05-27,0.0,22000000,5.3,5.43085
+2246,Malice,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",1993-09-29,46405336.0,0,5.9,9.861672
+10502,The Man without a Face,"[{'id': 18, 'name': 'Drama'}]",1993-08-25,24760338.0,0,6.2,5.997712
+10440,Manhattan Murder Mystery,"[{'id': 35, 'name': 'Comedy'}, {'id': 9648, 'name': 'Mystery'}]",1993-08-18,11285588.0,13500000,7.1,8.939404
+9516,Menace II Society,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]",1993-05-26,27900000.0,3500000,7.2,5.260924
+2320,Executive Decision,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-03-15,121969216.0,55000000,5.8,13.106291
+5879,In the Realm of the Senses,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1976-05-15,0.0,0,6.5,8.932494
+83718,What Happened Was...,"[{'id': 53, 'name': 'Thriller'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-09-09,0.0,0,7.0,0.534606
+11971,Much Ado About Nothing,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1993-05-07,0.0,8000000,7.2,8.62724
+2625,Mr. Jones,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1993-10-08,0.0,0,5.9,6.579753
+31911,Mr. Wonderful,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1993-10-15,0.0,0,5.5,13.011091
+788,Mrs. Doubtfire,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1993-11-24,441286195.0,25000000,7.0,11.16553
+21450,Naked,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1993-09-14,0.0,0,7.5,8.665198
+11231,The Next Karate Kid,"[{'id': 12, 'name': 'Adventure'}]",1994-07-18,15826984.0,12000000,4.8,9.9697
+41588,The New Age,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1994-09-16,0.0,0,4.8,0.596207
+10447,No Escape,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",1994-04-29,15340000.0,20000000,6.1,9.715187
+31586,North,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",1994-07-22,0.0,40000000,4.8,15.534707
+9300,Orlando,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}]",1992-09-01,0.0,4000000,6.7,3.800785
+9559,A Perfect World,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1993-11-24,135130999.0,30000000,7.2,8.040589
+9800,Philadelphia,"[{'id': 18, 'name': 'Drama'}]",1993-12-22,206678440.0,26000000,7.6,13.373006
+713,The Piano,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1993-05-19,116700000.0,7000000,7.1,7.436758
+8291,Poetic Justice,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1993-07-23,27515786.0,14000000,6.9,6.972599
+18133,The Program,"[{'id': 18, 'name': 'Drama'}]",1993-09-24,23042200.0,0,6.0,3.199976
+25557,The Puppet Masters,"[{'id': 27, 'name': 'Horror'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",1994-10-21,8638072.0,0,5.6,7.272296
+22588,Radioland Murders,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}]",1994-10-21,0.0,0,5.8,8.506727
+10872,The Ref,"[{'id': 35, 'name': 'Comedy'}]",1994-03-09,11439193.0,11000000,6.7,5.868677
+1245,The Remains of the Day,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1993-11-05,23237911.0,11500000,7.5,12.222576
+11858,Renaissance Man,"[{'id': 35, 'name': 'Comedy'}, {'id': 10752, 'name': 'War'}]",1994-06-03,24332324.0,40000000,5.9,4.985157
+7007,Rising Sun,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1993-07-30,107198790.0,0,5.8,6.279082
+10467,The Road to Wellville,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1994-10-28,0.0,0,5.5,3.416181
+5550,RoboCop 3,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",1993-04-17,10696210.0,22000000,4.2,8.685798
+8005,Robin Hood: Men in Tights,"[{'id': 35, 'name': 'Comedy'}]",1993-07-28,35739755.0,20000000,6.4,17.136672
+2088,Romeo Is Bleeding,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1993-09-13,3275585.0,11500000,5.7,9.796318
+10412,Romper Stomper,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1992-03-05,0.0,0,6.6,5.157926
+47889,Ruby in Paradise,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1993-10-08,1001437.0,800000,5.6,0.941994
+14534,Rudy,"[{'id': 18, 'name': 'Drama'}]",1993-09-17,22750363.0,12000000,7.2,5.914833
+56583,The Saint of Fort Washington,"[{'id': 18, 'name': 'Drama'}]",1993-11-03,0.0,0,4.0,1.065843
+41878,Savage Nights,"[{'id': 18, 'name': 'Drama'}]",1992-08-19,0.0,0,6.2,1.031556
+424,Schindler's List,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 10752, 'name': 'War'}]",1993-11-29,321365567.0,22000000,8.3,41.725123
+35233,The Scout,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1994-09-30,0.0,0,5.3,5.715608
+14291,Searching for Bobby Fischer,"[{'id': 18, 'name': 'Drama'}]",1993-08-13,7266383.0,0,7.3,12.048587
+103413,Second Best,"[{'id': 18, 'name': 'Drama'}]",1994-09-30,0.0,0,5.9,0.882596
+11236,The Secret Garden,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1993-08-13,0.0,0,7.1,6.499523
+11592,Serial Mom,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",1994-04-13,7820688.0,13000000,6.4,5.305311
+8850,The Shadow,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",1994-07-01,48063435.0,25000000,5.4,7.881107
+10445,Shadowlands,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1993-12-25,0.0,22000000,6.8,2.96586
+695,Short Cuts,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1993-09-05,6110979.0,0,6.9,8.829337
+43535,A Simple Twist of Fate,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1994-09-02,0.0,0,5.7,4.13516
+12519,Sirens,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1993-10-01,7770731.0,0,5.2,2.86213
+23210,Six Degrees of Separation,"[{'id': 9648, 'name': 'Mystery'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1993-12-08,0.0,0,6.5,8.730025
+858,Sleepless in Seattle,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1993-06-24,227799884.0,21000000,6.5,10.234919
+867,Sliver,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1993-05-21,116300000.0,40000000,4.9,11.23297
+78,Blade Runner,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1982-06-25,33139618.0,28000000,7.9,96.272374
+13203,Son in Law,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1993-07-02,36448200.0,0,5.6,9.122718
+10442,So I Married an Axe Murderer,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 10749, 'name': 'Romance'}]",1993-07-30,11585483.0,20000000,6.1,8.051914
+11074,Striking Distance,"[{'id': 80, 'name': 'Crime'}, {'id': 28, 'name': 'Action'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1993-09-17,0.0,30,5.4,13.390917
+33367,Harem,"[{'id': 36, 'name': 'History'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1985-11-20,0.0,0,4.0,1.825468
+9607,Super Mario Bros.,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1993-05-28,20915465.0,48000000,4.0,7.198455
+17585,Surviving the Game,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",1994-04-15,7690013.0,7400000,6.1,3.644641
+9057,Terminal Velocity,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1994-09-23,16478900.0,50000000,5.0,8.012225
+20967,Thirty Two Short Films About Glenn Gould,"[{'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}]",1993-11-26,0.0,0,7.4,0.873068
+10635,Threesome,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 10749, 'name': 'Romance'}]",1994-04-08,0.0,0,6.3,10.82236
+9479,The Nightmare Before Christmas,"[{'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",1993-10-09,75634409.0,18000000,7.6,17.730913
+10057,The Three Musketeers,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}]",1993-11-11,53898845.0,30000000,6.2,6.34785
+11969,Tombstone,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 37, 'name': 'Western'}]",1993-12-25,56505065.0,25000000,7.4,11.338194
+41590,Trial by Jury,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1994-09-09,0.0,0,5.5,0.85586
+319,True Romance,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 10749, 'name': 'Romance'}]",1993-09-09,12281551.0,12500000,7.5,17.189328
+26408,The War Room,"[{'id': 99, 'name': 'Documentary'}, {'id': 36, 'name': 'History'}]",1993-12-05,0.0,0,7.3,1.273617
+15139,The Pagemaster,"[{'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}]",1994-11-23,13670688.0,27000000,6.2,7.436001
+161158,"Paris, France","[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1994-02-04,0.0,0,6.0,0.741522
+218473,"The Beans of Egypt, Maine",[],1994-01-01,0.0,0,0.0,0.38247
+85247,Killer,"[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-09-14,0.0,0,3.0,0.422224
+11446,Welcome to the Dollhouse,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1995-05-24,0.0,0,6.9,5.14056
+51980,Germinal,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1993-09-29,0.0,0,6.3,2.759302
+24405,Chasers,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1994-04-22,1596687.0,0,4.7,9.85327
+11655,Cronos,"[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",1993-09-12,0.0,0,6.4,5.513024
+11800,Naked in New York,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1993-11-10,0.0,0,4.0,0.449733
+8223,Kika,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1993-10-28,0.0,0,6.8,3.647321
+14587,Bhaji on the Beach,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1994-01-21,0.0,0,5.1,0.441585
+31504,Little Big League,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1994-06-29,0.0,0,6.0,1.960563
+41653,The Slingshot,"[{'id': 18, 'name': 'Drama'}]",1993-09-24,0.0,0,6.2,1.764582
+53185,Wide Eyed and Legless,"[{'id': 10770, 'name': 'TV Movie'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]",1993-09-05,0.0,0,0.0,0.00015
+95743,Foreign Student,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-07-29,0.0,0,0.0,0.002789
+23637,"Ciao, Professore!","[{'id': 35, 'name': 'Comedy'}, {'id': 10769, 'name': 'Foreign'}]",1992-10-01,0.0,0,7.2,3.456868
+17600,Spanking the Monkey,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1994-01-15,0.0,200000,5.3,2.799575
+10897,The Little Rascals,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1994-08-05,67308282.0,0,6.3,6.707109
+349394,À la mode,"[{'id': 35, 'name': 'Comedy'}]",1993-09-10,0.0,0,0.0,8.2e-05
+21352,Andre,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}]",1994-08-17,0.0,0,5.0,3.139316
+68806,The Escort,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1993-01-01,0.0,0,5.0,0.046196
+37345,Princess Caraboo,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 9648, 'name': 'Mystery'}]",1994-09-16,3021629.0,0,4.4,1.943323
+32562,The Celluloid Closet,"[{'id': 36, 'name': 'History'}, {'id': 99, 'name': 'Documentary'}]",1996-01-30,0.0,0,7.0,6.784687
+47507,Café au Lait,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}, {'id': 10769, 'name': 'Foreign'}]",1993-01-01,0.0,0,6.8,1.040873
+25403,Dear Diary,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1993-10-12,0.0,0,6.9,2.904734
+124304,I Don't Want to Talk About It,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",1993-05-20,0.0,0,6.0,1.213481
+9066,The Brady Bunch Movie,"[{'id': 35, 'name': 'Comedy'}]",1995-02-16,0.0,0,5.9,4.233092
+771,Home Alone,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1990-11-09,476684675.0,18000000,7.1,0.702543
+251,Ghost,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}]",1990-07-12,505000000.0,22000000,6.9,11.945397
+812,Aladdin,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 35, 'name': 'Comedy'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}]",1992-11-25,504050219.0,28000000,7.4,16.357419
+280,Terminator 2: Judgment Day,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",1991-07-01,520000000.0,100000000,7.7,22.661695
+581,Dances with Wolves,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 37, 'name': 'Western'}]",1990-11-09,424208848.0,22000000,7.6,11.654349
+80350,Tough and Deadly,"[{'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}]",1995-02-14,0.0,0,6.3,0.426887
+268,Batman,"[{'id': 14, 'name': 'Fantasy'}, {'id': 28, 'name': 'Action'}]",1989-06-23,411348924.0,35000000,7.0,19.10673
+274,The Silence of the Lambs,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1991-02-01,272742922.0,19000000,8.1,4.307222
+408,Snow White and the Seven Dwarfs,"[{'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",1937-12-20,184925486.0,1488423,6.9,16.263878
+10020,Beauty and the Beast,"[{'id': 10749, 'name': 'Romance'}, {'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10402, 'name': 'Music'}]",1991-11-13,377350553.0,25000000,7.5,23.433511
+10895,Pinocchio,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",1940-02-23,84300000.0,2600000,6.9,14.202284
+114,Pretty Woman,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]",1990-03-23,463000000.0,14000000,7.0,13.348451
+41043,Window to Paris,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}]",1993-12-01,0.0,0,6.0,0.345748
+576,The Wild Bunch,"[{'id': 12, 'name': 'Adventure'}, {'id': 37, 'name': 'Western'}]",1969-06-17,638641.0,6244087,7.7,11.722424
+15477,Love and a .45,"[{'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",1994-11-23,0.0,0,5.5,3.40523
+59146,The Wooden Man's Bride,"[{'id': 18, 'name': 'Drama'}, {'id': 10769, 'name': 'Foreign'}, {'id': 10749, 'name': 'Romance'}]",1994-02-05,0.0,0,6.5,0.088451
+124472,A Great Day in Harlem,[],1994-09-27,0.0,0,7.0,0.076352
+30528,Bye Bye Love,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1995-03-16,0.0,0,6.1,2.47308
+7300,One Fine Day,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1996-12-20,97529550.0,0,6.1,7.009946
+10824,Candyman: Farewell to the Flesh,"[{'id': 27, 'name': 'Horror'}]",1995-03-17,13940383.0,0,5.0,4.983552
+261246,Century,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",1993-12-31,0.0,0,5.0,1.461029
+275,Fargo,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-04-05,60611975.0,7000000,7.7,12.61469
+25059,Homeward Bound II: Lost in San Francisco,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1996-03-08,32709423.0,0,6.0,14.657754
+11827,Heavy Metal,"[{'id': 16, 'name': 'Animation'}, {'id': 878, 'name': 'Science Fiction'}]",1981-08-07,0.0,9300000,6.3,7.640073
+8766,Hellraiser: Bloodline,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}, {'id': 878, 'name': 'Science Fiction'}]",1996-03-08,16675000.0,4000000,4.9,5.263187
+23570,The Pallbearer,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1996-05-03,0.0,8000000,4.6,8.174116
+47333,Jane Eyre,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1996-02-09,0.0,0,7.1,2.420301
+54850,Loaded,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1996-04-12,0.0,500000,4.0,0.618066
+51242,Bread and Chocolate,"[{'id': 35, 'name': 'Comedy'}, {'id': 10769, 'name': 'Foreign'}]",1974-05-05,0.0,0,7.1,1.306628
+10112,The Aristocats,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}]",1970-12-23,55675257.0,4000000,7.1,9.834047
+4307,The Flower of My Secret,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-09-22,0.0,0,6.9,2.286788
+46029,Two Much,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1996-02-14,0.0,0,5.1,1.620174
+32308,Ed,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1996-03-15,0.0,0,3.6,5.174212
+88893,Scream of Stone,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 99, 'name': 'Documentary'}]",1991-01-01,0.0,0,7.5,0.736081
+52873,My Favorite Season,"[{'id': 18, 'name': 'Drama'}]",1993-05-14,0.0,0,6.4,0.516924
+123505,A Modern Affair,[],1996-09-06,0.0,0,5.0,0.173207
+340210,Condition Red,"[{'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}]",1995-12-08,0.0,0,4.7,0.793932
+44281,Halfaouine: Boy of the Terraces,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1990-01-01,0.0,0,7.4,1.983301
+28121,A Thin Line Between Love and Hate,"[{'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 10749, 'name': 'Romance'}]",1996-04-04,0.0,0,5.7,2.256747
+12520,The Last Supper,"[{'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1995-09-08,442965.0,0,6.5,4.619915
+1592,Primal Fear,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1996-04-03,102616183.0,30000000,7.4,10.326213
+166901,Rude,[],1995-09-08,0.0,0,6.0,0.065827
+36447,Carried Away,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1996-01-26,0.0,0,5.4,1.67218
+19042,All Dogs Go to Heaven 2,"[{'id': 10749, 'name': 'Romance'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}]",1996-03-29,8620678.0,0,5.0,5.028897
+38884,Land and Freedom,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 10752, 'name': 'War'}, {'id': 10749, 'name': 'Romance'}]",1995-01-01,0.0,0,7.0,6.144235
+47449,Denise Calls Up,"[{'id': 35, 'name': 'Comedy'}]",1995-05-17,0.0,0,6.6,0.466476
+36259,Theodore Rex,"[{'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 10751, 'name': 'Family'}]",1995-12-14,0.0,33500000,3.6,2.583686
+41852,A Family Thing,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1996-03-29,0.0,0,5.6,6.207993
+40926,Frisk,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-03-22,0.0,0,3.0,0.319215
+9099,Sgt. Bilko,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1996-03-29,0.0,0,5.5,5.70904
+2021,Jack & Sarah,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-06-02,218626.0,0,5.1,1.523446
+61752,Girl 6,"[{'id': 35, 'name': 'Comedy'}]",1996-03-22,4939939.0,12000000,5.7,4.405169
+10988,Diabolique,"[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1996-03-22,0.0,0,5.4,4.530079
+11479,"Little Indian, Big City","[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1994-12-14,0.0,0,6.0,4.728163
+398959,Roula,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",1995-09-11,0.0,0,5.0,0.149157
+287305,Peanuts – Die Bank zahlt alles,"[{'id': 35, 'name': 'Comedy'}]",1996-03-21,0.0,0,4.0,0.066123
+339428,Happy Weekend,"[{'id': 35, 'name': 'Comedy'}]",1996-03-14,65335.0,0,0.0,0.002229
+12652,Nelly and Monsieur Arnaud,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1996-04-12,0.0,0,7.1,1.784647
+10684,Courage Under Fire,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10752, 'name': 'War'}]",1996-07-04,100860818.0,46000000,6.2,11.595316
+954,Mission: Impossible,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1996-05-22,457696359.0,80000000,6.7,15.793477
+68445,Cold Fever,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1995-02-10,0.0,0,7.7,0.494977
+18989,Moll Flanders,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1996-06-14,0.0,0,6.2,2.337263
+10801,The Superwife,"[{'id': 35, 'name': 'Comedy'}]",1996-03-06,0.0,0,5.3,0.821299
+54285,"301, 302","[{'id': 27, 'name': 'Horror'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1995-04-22,0.0,0,6.2,0.396626
+8840,DragonHeart,"[{'id': 14, 'name': 'Fantasy'}]",1996-05-31,115267375.0,57000000,6.4,23.63659
+278978,Und keiner weint mir nach,"[{'id': 18, 'name': 'Drama'}]",1996-02-29,0.0,0,0.0,0.439989
+124625,My Mother's Courage,"[{'id': 18, 'name': 'Drama'}]",1995-09-12,0.0,0,0.0,0.622885
+11107,Eddie,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}]",1996-05-31,0.0,0,5.4,3.09233
+16417,Yankee Zulu,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1993-12-01,0.0,0,6.0,1.558066
+70934,Billy's Holiday,[],1995-07-26,0.0,0,0.0,0.002444
+10363,Purple Noon,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1960-03-10,0.0,0,7.3,3.804493
+161070,August,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1996-08-08,0.0,0,5.3,0.987434
+10539,James and the Giant Peach,"[{'id': 12, 'name': 'Adventure'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",1996-04-12,28921264.0,38000000,6.2,13.217623
+10543,Fear,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 10749, 'name': 'Romance'}]",1996-04-12,0.0,0,6.1,6.954926
+18414,Kids in the Hall: Brain Candy,"[{'id': 35, 'name': 'Comedy'}]",1996-04-02,0.0,0,5.9,2.299851
+47502,Faithful,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1996-04-03,9789900.0,13000000,4.8,1.296862
+11902,Underground,"[{'id': 10752, 'name': 'War'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1995-04-11,0.0,14000000,7.5,14.587894
+27098,All Things Fair,"[{'id': 10752, 'name': 'War'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-03-08,0.0,0,6.1,3.582047
+25087,Bloodsport II,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1996-03-01,684351.0,0,5.2,3.085207
+5801,Pather Panchali,"[{'id': 18, 'name': 'Drama'}]",1955-08-26,536364.0,0,7.9,3.900709
+896,The World of Apu,"[{'id': 18, 'name': 'Drama'}]",1959-05-01,16000.0,0,8.2,2.381806
+3065,Mystery Science Theater 3000: The Movie,"[{'id': 35, 'name': 'Comedy'}, {'id': 878, 'name': 'Science Fiction'}]",1996-04-19,0.0,0,7.0,2.985163
+318177,Tarantella,[],1996-03-15,0.0,0,0.0,0.001662
+2300,Space Jam,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1996-11-15,250200000.0,80000000,6.5,11.054251
+8069,Barbarella,"[{'id': 878, 'name': 'Science Fiction'}]",1968-10-10,2500000.0,9000000,5.7,14.304205
+288173,Hostile Intentions,"[{'id': 53, 'name': 'Thriller'}, {'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}]",1995-01-01,0.0,0,8.0,0.062388
+187851,They Bite,"[{'id': 35, 'name': 'Comedy'}, {'id': 27, 'name': 'Horror'}, {'id': 878, 'name': 'Science Fiction'}]",1996-01-01,0.0,0,5.5,0.466991
+27768,Some Folks Call It a Sling Blade,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1994-03-26,0.0,0,7.5,0.459376
+221917,The Run of the Country,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-09-22,0.0,0,8.0,0.117662
+8072,Alphaville,"[{'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 9648, 'name': 'Mystery'}]",1965-05-05,0.0,220000,6.8,4.658149
+35797,Coup de Torchon,"[{'id': 18, 'name': 'Drama'}]",1981-11-04,0.0,0,6.8,2.272213
+88030,Tigrero: A Film That Was Never Made,"[{'id': 99, 'name': 'Documentary'}, {'id': 10769, 'name': 'Foreign'}]",1994-01-01,0.0,0,7.5,0.18343
+185191,The Eye of Vichy,[],1993-05-20,0.0,0,0.0,0.004117
+83857,Windows,"[{'id': 27, 'name': 'Horror'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1980-01-18,0.0,0,5.8,0.400023
+33245,It's My Party,"[{'id': 18, 'name': 'Drama'}]",1996-03-22,0.0,0,6.2,2.791667
+124460,Country Life,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-10-27,0.0,0,8.0,0.487357
+27281,Operation Dumbo Drop,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1995-07-28,0.0,0,4.7,4.357971
+105045,The Promise,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-02-16,0.0,0,5.0,0.122178
+40001,Mrs. Winterbourne,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",1996-04-19,10070000.0,25000000,5.5,9.1861
+29621,Solo,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",1996-10-23,0.0,0,3.9,1.899069
+117730,Under The Domim Tree,"[{'id': 18, 'name': 'Drama'}, {'id': 10769, 'name': 'Foreign'}]",1994-01-01,0.0,0,6.5,0.71066
+20762,The Substitute,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1996-04-19,0.0,0,5.8,10.68537
+37144,True Crime,"[{'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1996-03-12,0.0,0,5.1,1.217249
+48260,Butterfly Kiss,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]",1995-08-18,0.0,0,7.4,0.877853
+12656,Feeling Minnesota,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-09-13,0.0,0,5.5,10.298582
+38867,Delta of Venus,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-06-09,62949.0,0,3.3,1.099187
+277270,To Cross the Rubicon,[],1991-01-01,0.0,0,0.0,0.006854
+25969,Angus,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 10749, 'name': 'Romance'}]",1995-09-15,0.0,0,6.8,2.25008
+44103,Priest Daens,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",1992-09-01,0.0,0,6.7,0.755047
+753,Faces,"[{'id': 18, 'name': 'Drama'}]",1968-11-24,0.0,275000,7.1,7.918418
+43634,Boys,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",1996-05-10,0.0,0,5.3,1.579153
+9103,The Quest,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}]",1996-04-19,57400547.0,30000000,5.3,7.941972
+90214,Cosi,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1996-03-04,0.0,0,7.1,0.947007
+29649,Sunset Park,"[{'id': 18, 'name': 'Drama'}]",1996-04-26,0.0,0,5.1,1.231692
+10990,Mulholland Falls,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1996-04-26,0.0,0,6.2,5.79463
+8866,The Truth About Cats & Dogs,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1996-04-26,0.0,0,5.7,5.121203
+12233,Oliver & Company,"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1988-11-18,74151346.0,31000000,6.5,10.813579
+23449,Celtic Pride,"[{'id': 35, 'name': 'Comedy'}]",1996-04-19,0.0,0,4.9,1.940747
+36355,Flipper,"[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}]",1996-05-17,20080020.0,25530000,5.3,4.557006
+37667,Captives,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}]",1994-05-03,0.0,0,6.0,1.926109
+90148,Of Love and Shadows,"[{'id': 18, 'name': 'Drama'}]",1994-05-10,0.0,0,4.4,0.709209
+922,Dead Man,"[{'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}, {'id': 37, 'name': 'Western'}]",1995-12-23,0.0,9000000,7.2,6.505272
+11876,The Horseman on the Roof,"[{'id': 10752, 'name': 'War'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-09-20,15000000.0,35000000,6.7,1.690768
+52633,Switchblade Sisters,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1975-01-05,0.0,0,6.6,6.035166
+62364,Mouth to Mouth,"[{'id': 35, 'name': 'Comedy'}, {'id': 10769, 'name': 'Foreign'}]",1995-11-10,0.0,0,5.5,1.133409
+11687,The Visitors,"[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 878, 'name': 'Science Fiction'}]",1993-01-27,0.0,0,7.1,7.326169
+9304,Multiplicity,"[{'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}]",1996-07-19,0.0,45000000,5.5,8.768806
+73183,"The Haunted World of Edward D. Wood, Jr.","[{'id': 99, 'name': 'Documentary'}]",1996-05-01,0.0,0,10.0,0.037443
+131232,Two Friends,"[{'id': 18, 'name': 'Drama'}, {'id': 10769, 'name': 'Foreign'}]",2002-03-20,0.0,0,0.0,0.003949
+9100,The Craft,"[{'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",1996-05-03,24769466.0,15000000,6.3,12.860385
+20759,The Great White Hype,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1996-05-03,0.0,0,5.1,3.321765
+46063,Last Dance,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-05-02,5.0,0,5.6,1.196686
+365371,War Stories Our Mother Never Told Us,[],,0.0,0,0.0,0.005625
+32513,Cold Comfort Farm,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-01-01,0.0,0,7.0,1.92386
+40651,"Institute Benjamenta, or This Dream People Call Human Life","[{'id': 16, 'name': 'Animation'}, {'id': 18, 'name': 'Drama'}]",1995-08-01,0.0,0,7.7,0.543042
+36915,Heaven's Prisoners,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1996-05-17,0.0,25000000,5.0,9.264679
+40507,Original Gangstas,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",1996-05-10,3014000.0,4800000,5.5,0.343579
+9802,The Rock,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",1996-06-06,335062621.0,75000000,6.9,13.249824
+25697,Getting Away with Murder,"[{'id': 35, 'name': 'Comedy'}]",1996-04-12,0.0,0,5.5,0.746662
+21588,Cemetery Man,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 35, 'name': 'Comedy'}]",1994-03-25,0.0,4000000,7.0,6.247819
+664,Twister,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}]",1996-05-10,494471524.0,92000000,6.1,8.739144
+11867,Barb Wire,"[{'id': 28, 'name': 'Action'}, {'id': 878, 'name': 'Science Fiction'}]",1996-05-02,3793614.0,0,3.9,5.877599
+47119,Le Garçu,"[{'id': 18, 'name': 'Drama'}]",1995-10-31,0.0,0,5.0,0.125882
+314352,Honeymoon,"[{'id': 35, 'name': 'Comedy'}]",1996-04-11,0.0,0,0.0,0.652621
+9323,Ghost in the Shell,"[{'id': 28, 'name': 'Action'}, {'id': 16, 'name': 'Animation'}, {'id': 878, 'name': 'Science Fiction'}]",1995-11-18,2287714.0,0,7.8,10.686166
+10280,Thinner,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",1996-10-25,0.0,0,5.5,4.856229
+10535,Spy Hard,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}]",1996-05-24,0.0,18000000,4.9,8.202057
+124613,Brothers in Trouble,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1995-08-23,0.0,0,0.0,0.594716
+532,A Close Shave,"[{'id': 10751, 'name': 'Family'}, {'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}]",1995-12-24,0.0,0,7.5,6.796858
+26744,Force of Evil,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]",1948-12-25,0.0,0,6.6,4.386329
+16299,The Stupids,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1996-08-30,0.0,0,4.2,1.751457
+10547,The Arrival,"[{'id': 28, 'name': 'Action'}, {'id': 9648, 'name': 'Mystery'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",1996-05-31,14048372.0,25000000,6.1,6.497591
+245268,The Man from Down Under,"[{'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]",1943-08-04,0.0,0,0.0,0.068254
+935,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10752, 'name': 'War'}]",1964-01-29,9440272.0,1800000,8.0,9.80398
+55613,Careful,"[{'id': 27, 'name': 'Horror'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}]",1992-09-30,0.0,0,7.8,0.160571
+215107,Vermont Is for Lovers,[],,0.0,0,0.0,0.75
+41007,A Month by the Lake,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-09-11,0.0,0,7.2,0.851078
+35645,Gold Diggers: The Secret of Bear Mountain,"[{'id': 18, 'name': 'Drama'}]",1995-11-03,0.0,0,5.8,5.508101
+110465,Kim,"[{'id': 10751, 'name': 'Family'}, {'id': 12, 'name': 'Adventure'}]",1950-12-07,0.0,0,7.0,1.048075
+255546,Carmen Miranda: Bananas Is My Business,"[{'id': 99, 'name': 'Documentary'}]",1995-04-13,0.0,0,10.0,0.146287
+40751,Ashes of Time,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}]",1994-09-16,0.0,0,7.1,5.215992
+275096,The Jar,[],1994-04-01,0.0,0,8.0,0.401531
+85778,Maya Lin: A Strong Clear Vision,"[{'id': 99, 'name': 'Documentary'}]",1995-11-10,0.0,0,0.0,0.001608
+11101,Stalingrad,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 10752, 'name': 'War'}]",1993-01-21,0.0,0,7.4,7.667284
+9826,The Phantom,"[{'id': 12, 'name': 'Adventure'}, {'id': 28, 'name': 'Action'}]",1996-06-06,17300889.0,45000000,4.7,8.079541
+9879,Striptease,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",1996-06-28,113309743.0,50000000,4.4,11.341502
+63564,The Last of the High Kings,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1996-12-06,0.0,0,5.7,1.427756
+22621,Heavy,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-01-20,0.0,0,7.7,0.889498
+7095,Jack,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}]",1996-08-09,58620973.0,45000000,5.9,6.287245
+26890,I Shot Andy Warhol,"[{'id': 18, 'name': 'Drama'}]",1996-05-01,1814290.0,0,6.1,2.771201
+46732,The Grass Harp,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1995-09-10,0.0,0,6.1,0.365418
+124633,Someone Else's America,"[{'id': 18, 'name': 'Drama'}]",1995-09-09,0.0,0,0.0,0.099602
+202425,Life is Rosy,"[{'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]",1987-11-17,0.0,0,6.5,0.514363
+196940,Quartier Mozart,[],1992-05-26,0.0,0,5.0,0.011938
+77771,Touki Bouki,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1973-07-01,0.0,0,7.3,0.043903
+181083,God's Gift,"[{'id': 18, 'name': 'Drama'}]",1982-01-01,0.0,0,5.0,0.049573
+41225,Spirits of the Dead,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 27, 'name': 'Horror'}]",1968-05-16,0.0,0,5.5,1.794298
+188589,Babyfever,[],1994-05-04,0.0,0,0.0,0.001687
+87190,Pharaoh's  Army,"[{'id': 37, 'name': 'Western'}, {'id': 18, 'name': 'Drama'}, {'id': 10752, 'name': 'War'}]",1995-01-01,0.0,50,6.3,0.837911
+627,Trainspotting,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",1996-02-23,16491080.0,4000000,7.8,19.348466
+32872,Til There Was You,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1997-05-30,0.0,1000000,3.9,2.700061
+602,Independence Day,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}]",1996-06-25,816969268.0,75000000,6.7,17.634197
+14553,Stealing Beauty,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1996-03-29,0.0,0,6.6,6.418805
+9566,The Fan,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1996-08-15,18626419.0,55000000,5.7,12.202063
+10545,The Hunchback of Notre Dame,"[{'id': 18, 'name': 'Drama'}, {'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",1996-06-21,100138851.0,100000000,6.8,13.553999
+9894,The Cable Guy,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-06-10,102825796.0,47000000,5.7,7.586577
+11543,Kingpin,"[{'id': 35, 'name': 'Comedy'}]",1996-07-04,25023434.0,27000000,6.7,11.633347
+9268,Eraser,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1996-06-21,242295562.0,100000000,5.6,6.919314
+52059,The Gate of Heavenly Peace,"[{'id': 99, 'name': 'Documentary'}]",1995-01-01,0.0,0,6.7,0.10705
+9327,The Nutty Professor,"[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}, {'id': 878, 'name': 'Science Fiction'}]",1996-06-26,128769345.0,54000000,5.4,9.651581
+123763,"I, the Worst of All","[{'id': 18, 'name': 'Drama'}, {'id': 10769, 'name': 'Foreign'}]",1990-08-09,0.0,0,6.8,0.202495
+81949,An Unforgettable Summer,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 10752, 'name': 'War'}]",1994-05-15,65352.0,0,7.2,0.826372
+42005,A Hungarian Fairy Tale,[],1987-01-01,0.0,0,0.0,0.043125
+124306,My Life and Times With Antonin Artaud,[],1993-01-01,0.0,0,8.0,0.000308
+183955,Midnight Dancers,[],1994-09-09,0.0,0,7.0,0.05956
+44535,Somebody to Love,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1994-09-27,0.0,0,5.1,0.970688
+44495,A Very Natural Thing,"[{'id': 18, 'name': 'Drama'}]",1974-01-01,0.0,0,6.3,0.147662
+78285,The Old Lady Who Walked in the Sea,"[{'id': 35, 'name': 'Comedy'}]",1991-09-18,0.0,0,0.0,0.573423
+11228,Daylight,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",1996-12-06,159212469.0,80000000,5.8,11.995799
+10779,The Frighteners,"[{'id': 27, 'name': 'Horror'}, {'id': 35, 'name': 'Comedy'}]",1996-07-18,29359216.0,30000000,6.7,12.09096
+26748,Lone Star,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}]",1996-06-21,13269963.0,5000000,6.9,9.069963
+38223,Harriet the Spy,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1996-07-10,0.0,12000000,5.7,4.086563
+9294,Phenomenon,"[{'id': 18, 'name': 'Drama'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}, {'id': 878, 'name': 'Science Fiction'}]",1996-07-05,152036382.0,32000000,6.2,5.575992
+49963,Walking and Talking,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1996-07-17,0.0,0,6.6,0.913281
+11363,She's the One,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1996-08-26,9482579.0,3500000,5.7,10.827266
+1645,A Time to Kill,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-07-24,152266007.0,40000000,7.0,13.309013
+31546,American Buffalo,"[{'id': 18, 'name': 'Drama'}]",1996-09-13,665450.0,0,6.2,7.031279
+77056,Rendezvous in Paris,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]",1995-03-22,0.0,0,6.5,0.227128
+36344,Alaska,"[{'id': 12, 'name': 'Adventure'}]",1996-08-14,0.0,23000000,5.2,2.318141
+18550,Fled,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}]",1996-07-19,17193231.0,25000000,5.2,3.906949
+11511,Kazaam,"[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 10751, 'name': 'Family'}]",1996-07-17,0.0,20000000,3.6,8.962892
+172198,Magic Hunter,[],1994-10-23,0.0,0,6.0,0.091984
+34170,Larger Than Life,"[{'id': 10751, 'name': 'Family'}, {'id': 35, 'name': 'Comedy'}]",1996-10-31,0.0,30000000,5.4,3.521921
+281085,A Boy Called Hate,[],1996-05-22,0.0,0,6.0,1.56604
+109478,Power 98,"[{'id': 28, 'name': 'Action'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1996-05-17,0.0,0,4.0,0.926867
+124645,Two Deaths,"[{'id': 10752, 'name': 'War'}, {'id': 18, 'name': 'Drama'}]",1995-09-10,0.0,0,7.0,0.145092
+12606,A Very Brady Sequel,"[{'id': 35, 'name': 'Comedy'}]",1996-08-23,0.0,0,5.8,9.898696
+69895,Stefano Quantestorie,"[{'id': 35, 'name': 'Comedy'}]",1993-05-26,0.0,0,6.0,0.036699
+35206,Death in the Garden,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}]",1956-09-21,0.0,0,7.4,1.116063
+151489,Hedd Wyn,"[{'id': 10752, 'name': 'War'}, {'id': 18, 'name': 'Drama'}]",1992-01-01,0.0,0,6.5,0.270432
+4837,La Collectionneuse,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1967-03-02,0.0,0,6.5,1.683348
+12632,Kaspar Hauser,"[{'id': 18, 'name': 'Drama'}, {'id': 10769, 'name': 'Foreign'}]",1993-09-11,0.0,0,6.3,0.000578
+9098,Regular Guys,"[{'id': 35, 'name': 'Comedy'}, {'id': 10769, 'name': 'Foreign'}]",1996-05-30,0.0,0,5.2,1.165202
+282919,Diebinnen,"[{'id': 18, 'name': 'Drama'}]",1996-06-20,0.0,0,4.0,0.106345
+124614,The Convent,"[{'id': 53, 'name': 'Thriller'}]",1995-09-06,0.0,0,6.5,1.606957
+18975,The Adventures of Pinocchio,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1996-07-26,0.0,0,5.0,7.523528
+11962,Joe's Apartment,"[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}]",1996-07-26,4619014.0,13000000,5.0,9.490858
+2925,The First Wives Club,"[{'id': 35, 'name': 'Comedy'}]",1996-09-20,116400000.0,26000000,6.5,10.177303
+28628,Stonewall,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1995-10-01,0.0,0,7.2,0.940228
+3595,Ransom,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}]",1996-11-08,309492681.0,80000000,6.4,8.772188
+9308,High School High,"[{'id': 35, 'name': 'Comedy'}]",1996-10-25,21302121.0,0,5.4,4.220058
+92381,Phat Beach,"[{'id': 35, 'name': 'Comedy'}]",1996-08-02,0.0,0,5.4,0.879852
+18555,Foxfire,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-08-23,258263.0,0,6.3,3.186891
+12123,Chain Reaction,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",1996-08-02,60209334.0,50000000,5.3,15.874491
+10830,Matilda,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1996-08-02,33459416.0,36000000,6.9,10.034915
+3573,Emma,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1996-08-02,22231658.0,6000000,6.7,6.593011
+10546,The Crow: City of Angels,"[{'id': 28, 'name': 'Action'}, {'id': 14, 'name': 'Fantasy'}, {'id': 53, 'name': 'Thriller'}]",1996-08-29,17917287.0,13000000,5.2,6.554679
+18862,House Arrest,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1996-08-14,0.0,0,5.0,12.297782
+31417,Eyes Without a Face,"[{'id': 18, 'name': 'Drama'}, {'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",1960-01-11,0.0,0,7.5,9.935891
+9431,Bordello of Blood,"[{'id': 27, 'name': 'Horror'}, {'id': 35, 'name': 'Comedy'}]",1996-08-16,5600000.0,15000000,5.0,3.450402
+124619,Lotto Land,"[{'id': 18, 'name': 'Drama'}]",1995-06-01,0.0,0,7.0,0.042365
+297645,The Story of Xinghua,[],1994-03-30,0.0,0,0.0,0.001652
+48144,The Day the Sun Turned Cold,[],1994-01-01,0.0,0,7.0,0.076062
+46986,Flirt,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1995-09-14,0.0,0,7.5,1.663948
+144982,The Big Squeeze,"[{'id': 18, 'name': 'Drama'}]",1996-09-06,0.0,0,5.0,0.404501
+47907,The Spitfire Grill,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1996-08-23,12643776.0,6000000,6.8,1.19589
+10061,Escape from L.A.,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 53, 'name': 'Thriller'}]",1996-08-09,42277365.0,50000000,5.6,12.229381
+36266,Cyclo,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1995-01-01,0.0,0,6.8,1.781952
+549,Basquiat,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",1996-08-09,3011195.0,2962051,6.6,4.797674
+10478,Tin Cup,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1996-08-16,53854588.0,45000000,5.9,6.24966
+66634,Dingo,"[{'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}]",1991-06-02,300000.0,200000,6.0,0.124273
+116690,The Ballad of Narayama,"[{'id': 18, 'name': 'Drama'}]",1958-06-01,0.0,0,6.4,0.969254
+213917,Every Other Weekend,"[{'id': 18, 'name': 'Drama'}]",1990-08-28,0.0,0,6.0,0.629807
+145925,Mille bolle blu,[],1993-01-01,0.0,0,6.0,0.03537
+100914,Crows and Sparrows,[],1949-01-01,0.0,0,5.0,0.036478
+238,The Godfather,"[{'id': 18, 'name': 'Drama'}, {'id': 80, 'name': 'Crime'}]",1972-03-14,245066411.0,6000000,8.5,41.109264
+159,Maybe... Maybe Not,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1994-10-05,0.0,0,6.1,8.593319
+11134,Police Story 3: Supercop,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",1992-07-04,20483423.0,900000,6.7,6.751864
+88224,Manny & Lo,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}]",1996-01-22,431326.0,500000,6.3,1.143656
+132641,Wife,"[{'id': 18, 'name': 'Drama'}]",1953-04-29,0.0,0,0.0,0.096079
+42758,Small Faces,[],1996-04-05,0.0,1850000,6.4,0.90913
+9303,Bound,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]",1996-09-13,7011317.0,4500000,6.9,12.449574
+23945,Carpool,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1996-08-23,0.0,17000000,4.9,3.714049
+37820,Death in Brunswick,"[{'id': 18, 'name': 'Drama'}]",1990-11-08,0.0,0,6.1,0.913987
+22479,Kansas City,"[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}, {'id': 10402, 'name': 'Music'}, {'id': 80, 'name': 'Crime'}]",1996-08-16,0.0,18000000,6.1,5.130136
+9054,Gone Fishin',"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1997-05-30,0.0,53000000,4.7,2.289647
+241058,Lover's Knot,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]",1996-07-12,0.0,0,4.0,0.14315
+11985,Vive L'Amour,"[{'id': 18, 'name': 'Drama'}]",1994-09-02,0.0,0,7.3,1.404588
+10232,Shadow of Angels,"[{'id': 18, 'name': 'Drama'}]",1976-01-31,0.0,0,4.0,0.364246
+59569,Killer: A Journal of Murder,"[{'id': 18, 'name': 'Drama'}]",1996-09-06,0.0,0,6.3,0.705136
+410921,Nothing to Lose,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1994-01-01,0.0,0,0.0,0.001771
+38955,Project S,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}]",1993-10-21,0.0,0,5.8,1.262539
+110513,Girls Town,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1996-08-21,0.0,0,5.2,0.635669
+114089,Bye-Bye,"[{'id': 18, 'name': 'Drama'}]",1995-08-30,0.0,0,7.7,0.109406
+11015,The Relic,"[{'id': 27, 'name': 'Horror'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1997-01-10,33956608.0,60000000,5.8,7.699967
+9306,The Island of Dr. Moreau,"[{'id': 14, 'name': 'Fantasy'}, {'id': 27, 'name': 'Horror'}, {'id': 878, 'name': 'Science Fiction'}]",1996-08-23,49627779.0,40000000,4.6,12.725343
+12559,First Kid,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1996-08-30,0.0,0,5.3,6.510437
+58770,The Trigger Effect,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-08-30,0.0,8000000,6.6,9.028947
+124851,Sweet Nothing,[],1995-06-08,0.0,0,5.0,0.234665
+3587,Bogus,"[{'id': 14, 'name': 'Fantasy'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1996-09-06,0.0,32000000,5.4,2.523605
+10723,Bulletproof,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}]",1996-09-06,22611954.0,25000000,5.4,7.859132
+56077,Talk of Angels,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 10752, 'name': 'War'}]",1998-10-30,0.0,0,6.8,0.978989
+19004,The Land Before Time III: The Time of the Great Giving,"[{'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}]",1995-03-16,0.0,0,6.1,6.372442
+101230,1-900,[],1994-09-01,0.0,0,5.0,0.062128
+253632,Baton Rouge,"[{'id': 53, 'name': 'Thriller'}]",1988-10-08,0.0,0,0.0,0.437895
+10987,Halloween: The Curse of Michael Myers,"[{'id': 27, 'name': 'Horror'}, {'id': 53, 'name': 'Thriller'}]",1995-09-29,15116634.0,5000000,5.0,8.768288
+44705,Twelfth Night,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1996-10-31,0.0,0,7.0,4.69668
+20318,Mother Night,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}]",1996-11-01,0.0,0,7.1,6.038784
+43596,Liebelei,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1933-03-10,0.0,0,6.3,0.472479
+79782,Venice,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",2010-05-25,0.0,0,7.5,0.14713
+26933,Wild Reeds,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1994-05-05,0.0,0,7.4,2.115268
+27854,For Whom the Bell Tolls,"[{'id': 18, 'name': 'Drama'}, {'id': 36, 'name': 'History'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]",1943-07-12,0.0,3000000,6.1,14.373861
+981,The Philadelphia Story,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1940-12-05,0.0,0,7.7,8.888069
+872,Singin' in the Rain,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]",1952-04-10,7200000.0,2540800,7.9,11.064858
+2769,An American in Paris,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]",1951-08-08,4500000.0,2723903,6.9,5.565203
+13320,Funny Face,"[{'id': 10402, 'name': 'Music'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1957-02-13,0.0,0,7.0,5.461487
+164,Breakfast at Tiffany's,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1961-10-05,9500000.0,2500000,7.6,10.879289
+426,Vertigo,"[{'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]",1958-05-09,28000000.0,2479000,8.0,18.20822
+567,Rear Window,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1954-08-01,36764313.0,1000000,8.2,17.911314
+3078,It Happened One Night,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1934-02-22,4500000.0,325000,7.7,6.465257
+13528,Gaslight,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}]",1944-05-04,0.0,2068000,7.2,14.545058
+28288,The Gay Divorcee,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]",1934-10-12,0.0,520000,7.2,2.863935
+213,North by Northwest,"[{'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1959-07-07,13275000.0,4000000,7.8,12.410427
+284,The Apartment,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1960-06-15,25000000.0,3000000,8.1,11.994281
+239,Some Like It Hot,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1959-03-18,25000000.0,2883848,8.0,11.845107
+4808,Charade,"[{'id': 35, 'name': 'Comedy'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]",1963-12-05,13474588.0,4000000,7.7,7.098731
+289,Casablanca,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1942-11-26,10462500.0,878000,7.9,13.916101
+963,The Maltese Falcon,"[{'id': 9648, 'name': 'Mystery'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",1941-11-18,1000000.0,375000,7.8,5.782544
+11113,My Fair Lady,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]",1964-10-21,72070731.0,17000000,7.4,12.494394
+6620,Sabrina,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1954-09-28,10000000.0,2238813,7.4,7.359741
+804,Roman Holiday,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1953-09-02,12000000.0,1500000,7.8,11.954806
+26531,The Little Princess,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1939-03-17,0.0,0,7.0,5.640722
+909,Meet Me in St. Louis,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]",1944-11-23,0.0,0,6.8,7.331511
+630,The Wizard of Oz,"[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1939-08-15,33754967.0,2777000,7.4,22.064932
+770,Gone with the Wind,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 10752, 'name': 'War'}]",1939-12-15,400176459.0,4000000,7.7,14.240357
+31044,My Favorite Year,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1982-10-01,0.0,0,7.1,2.923672
+599,Sunset Boulevard,"[{'id': 18, 'name': 'Drama'}]",1950-08-10,5000000.0,1752000,8.2,11.709777
+15,Citizen Kane,"[{'id': 9648, 'name': 'Mystery'}, {'id': 18, 'name': 'Drama'}]",1941-04-30,23217674.0,839727,8.0,15.811921
+62,2001: A Space Odyssey,"[{'id': 878, 'name': 'Science Fiction'}, {'id': 9648, 'name': 'Mystery'}, {'id': 12, 'name': 'Adventure'}]",1968-04-10,68700000.0,10500000,7.9,22.494622
+121357,Golden Earrings,"[{'id': 12, 'name': 'Adventure'}, {'id': 10749, 'name': 'Romance'}]",1947-08-27,0.0,0,4.8,0.949155
+705,All About Eve,"[{'id': 18, 'name': 'Drama'}]",1950-11-09,63463.0,1400000,8.0,12.06308
+22490,The Women,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1939-01-01,2270000.0,1688000,6.4,5.076649
+223,Rebecca,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",1940-04-12,6000000.0,1288000,7.7,8.590813
+25670,Foreign Correspondent,"[{'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}, {'id': 10752, 'name': 'War'}]",1940-08-16,0.0,0,7.0,9.955445
+303,Notorious,"[{'id': 53, 'name': 'Thriller'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1946-08-15,24464742.0,2000000,7.8,10.135111
+4174,Spellbound,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 53, 'name': 'Thriller'}]",1945-12-28,7000000.0,1500000,7.3,5.47596
+8356,An Affair to Remember,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1957-07-11,0.0,0,7.1,9.813419
+381,To Catch a Thief,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}, {'id': 53, 'name': 'Thriller'}]",1955-08-03,8750000.0,2500000,7.1,5.490505
+20758,Father of the Bride,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 10749, 'name': 'Romance'}]",1950-06-16,0.0,0,6.6,2.469167
+29376,The Band Wagon,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}]",1953-08-07,0.0,0,7.1,3.573935
+1859,Ninotchka,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1939-10-06,2279000.0,1365000,7.3,5.120036
+18299,Love in the Afternoon,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1957-06-30,0.0,0,7.3,8.196679
+17281,Gigi,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]",1958-04-15,0.0,0,6.1,10.36311
+64382,The Reluctant Debutante,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1958-01-01,0.0,0,6.6,1.954175
+10907,The Adventures of Robin Hood,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 10749, 'name': 'Romance'}]",1938-05-13,3981000.0,2033000,7.6,10.685036
+32093,The Mark of Zorro,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 37, 'name': 'Western'}]",1940-11-08,0.0,0,7.1,7.431939
+1939,Laura,"[{'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",1944-10-11,2000000.0,1020000,7.6,9.884516
+22292,The Ghost and Mrs. Muir,"[{'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}, {'id': 9648, 'name': 'Mystery'}]",1947-06-26,0.0,0,7.3,3.008607
+3598,Lost Horizon,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",1937-09-01,0.0,4000000,6.8,3.166544
+3080,Top Hat,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]",1935-09-06,3202000.0,609000,7.4,7.122093
+198,To Be or Not to Be,"[{'id': 35, 'name': 'Comedy'}, {'id': 10752, 'name': 'War'}]",1942-03-05,0.0,0,7.7,7.274948
+13562,My Man Godfrey,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1936-09-17,0.0,0,7.7,5.480098
+1712,Giant,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 37, 'name': 'Western'}]",1956-10-10,35000000.0,5400000,7.5,10.864284
+220,East of Eden,"[{'id': 18, 'name': 'Drama'}]",1955-03-09,5.0,1,7.5,6.42883
+3529,The Thin Man,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 9648, 'name': 'Mystery'}]",1934-05-25,1423000.0,226408,7.4,10.573867
+3085,His Girl Friday,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1940-01-18,0.0,0,7.5,9.88321
+2897,Around the World in Eighty Days,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}]",1956-10-17,42000000.0,6000000,6.5,6.164226
+1585,It's a Wonderful Life,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1946-12-20,9644124.0,3180000,8.0,15.031588
+3083,Mr. Smith Goes to Washington,"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}]",1939-10-19,9600000.0,1500000,7.9,8.168694
+900,Bringing Up Baby,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1938-02-18,0.0,1073000,7.6,6.60577
+43795,Penny Serenade,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1941-04-24,0.0,0,6.4,2.446972
+85638,The Scarlet Letter,"[{'id': 18, 'name': 'Drama'}]",1926-08-09,0.0,0,8.3,0.284522
+50001,Lady of Burlesque,"[{'id': 35, 'name': 'Comedy'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}]",1943-06-01,0.0,0,5.0,0.264695
+43905,Of Human Bondage,"[{'id': 18, 'name': 'Drama'}]",1934-07-20,0.0,0,6.4,1.831221
+22688,Angel on My Shoulder,"[{'id': 35, 'name': 'Comedy'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10749, 'name': 'Romance'}]",1946-09-20,0.0,0,5.7,0.594433
+23114,Little Lord Fauntleroy,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1936-03-06,0.0,0,6.6,4.709847
+26378,They Made Me a Criminal,"[{'id': 53, 'name': 'Thriller'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 9648, 'name': 'Mystery'}]",1939-01-28,0.0,0,5.6,1.758391
+40206,The Inspector General,"[{'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}, {'id': 10749, 'name': 'Romance'}]",1949-12-31,0.0,0,6.2,0.896505
+22356,Angel and the Badman,"[{'id': 10749, 'name': 'Romance'}, {'id': 37, 'name': 'Western'}]",1947-02-15,0.0,0,6.6,8.08426
+260,The 39 Steps,"[{'id': 28, 'name': 'Action'}, {'id': 53, 'name': 'Thriller'}, {'id': 9648, 'name': 'Mystery'}]",1935-06-01,0.0,0,7.4,5.865697
+43488,A Walk in the Sun,"[{'id': 10752, 'name': 'War'}, {'id': 18, 'name': 'Drama'}]",1945-12-25,0.0,0,5.2,8.85591
+22613,The Outlaw,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 37, 'name': 'Western'}]",1943-02-05,0.0,0,4.9,1.450989
+10331,Night of the Living Dead,"[{'id': 27, 'name': 'Horror'}]",1968-10-01,30000000.0,114000,7.5,14.384198
+488,The African Queen,"[{'id': 12, 'name': 'Adventure'}, {'id': 10752, 'name': 'War'}, {'id': 10749, 'name': 'Romance'}]",1951-12-03,10750000.0,1300000,7.4,6.636872
+22733,Beat the Devil,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1953-11-24,0.0,1000000,6.2,2.001733
+261,Cat on a Hot Tin Roof,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1958-02-17,17570324.0,3000000,7.6,11.794846
+57575,The Last Time I Saw Paris,"[{'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",1954-01-01,105.0,0,5.1,0.912955
+32574,Meet John Doe,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}]",1941-03-12,0.0,0,7.3,10.750619
+22657,Algiers,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 9648, 'name': 'Mystery'}, {'id': 10749, 'name': 'Romance'}]",1938-06-28,0.0,0,5.8,0.348765
+76464,Something to Sing About,"[{'id': 35, 'name': 'Comedy'}]",1937-09-30,0.0,0,3.8,0.367546
+22649,A Farewell to Arms,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}, {'id': 10752, 'name': 'War'}]",1932-12-08,25.0,4,6.2,1.914697
+176841,Moonlight Murder,"[{'id': 10402, 'name': 'Music'}, {'id': 9648, 'name': 'Mystery'}]",1936-03-27,0.0,0,6.0,0.283269
+125587,Nothing Personal,"[{'id': 18, 'name': 'Drama'}]",1996-10-18,0.0,0,4.0,0.064512
+39448,"Yes, Madam","[{'id': 28, 'name': 'Action'}, {'id': 10769, 'name': 'Foreign'}]",1985-01-01,0.0,0,7.4,1.060097
+52855,Dangerous Ground,"[{'id': 18, 'name': 'Drama'}]",1997-02-12,3028094.0,0,5.0,1.463219
+39940,Picnic,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1955-11-18,0.0,0,6.7,8.500509
+172868,Madagascar Skin,[],1995-01-26,0.0,0,0.0,0.580724
+85328,The Pompatus of Love,"[{'id': 35, 'name': 'Comedy'}, {'id': 10749, 'name': 'Romance'}, {'id': 18, 'name': 'Drama'}]",1996-07-26,0.0,0,5.3,0.537795
+124632,Small Wonders,"[{'id': 99, 'name': 'Documentary'}, {'id': 10751, 'name': 'Family'}]",1995-01-01,0.0,0,0.0,0.00264
+11076,Fly Away Home,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1996-09-13,0.0,0,6.6,5.511155
+63945,Bliss,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1997-04-14,294064.0,0,4.8,1.262649
+58985,Grace of My Heart,"[{'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10402, 'name': 'Music'}]",1996-09-13,0.0,0,6.5,9.364418
+890,Brother of Sleep,"[{'id': 18, 'name': 'Drama'}]",1995-09-08,0.0,0,6.8,0.751733
+10861,Maximum Risk,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 53, 'name': 'Thriller'}]",1996-09-13,51702483.0,25000000,5.3,7.370163
+1770,Michael Collins,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-10-25,16900000.0,28000000,6.8,6.728199
+44465,The Rich Man's Wife,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-09-13,8538318.0,0,4.9,6.746475
+2033,Infinity,"[{'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",1996-10-04,0.0,0,0.0,1.226688
+18203,Big Night,"[{'id': 18, 'name': 'Drama'}]",1996-09-20,0.0,0,6.8,2.702973
+9333,Last Man Standing,"[{'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-09-20,47267001.0,67000000,6.2,11.845918
+47260,Caught,"[{'id': 28, 'name': 'Action'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-01-24,0.0,0,6.5,1.625873
+9400,Set It Off,"[{'id': 18, 'name': 'Drama'}, {'id': 28, 'name': 'Action'}, {'id': 80, 'name': 'Crime'}]",1996-11-06,41590886.0,9000000,6.9,6.85606
+9401,2 Days in the Valley,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}]",1996-09-11,0.0,0,5.9,4.989276
+12241,Curdled,"[{'id': 35, 'name': 'Comedy'}, {'id': 80, 'name': 'Crime'}, {'id': 53, 'name': 'Thriller'}]",1996-09-06,49620.0,2300000,6.2,2.781581
+25739,L'associé,"[{'id': 35, 'name': 'Comedy'}]",1979-08-22,0.0,0,6.0,0.000308
+161806,Ed's Next Move,[],1996-10-18,0.0,0,3.0,0.550278
+11306,Extreme Measures,"[{'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-09-27,17380126.0,38000000,5.7,4.990506
+9625,The Glimmer Man,"[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}, {'id': 53, 'name': 'Thriller'}]",1996-10-04,0.0,45000000,4.7,5.918737
+10680,D3: The Mighty Ducks,"[{'id': 28, 'name': 'Action'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1996-10-04,22955097.0,0,5.3,5.511475
+6346,The Chamber,"[{'id': 80, 'name': 'Crime'}, {'id': 18, 'name': 'Drama'}]",1996-10-11,22540359.0,50000000,5.9,3.998494
+18660,The Apple Dumpling Gang,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1975-07-01,0.0,0,6.6,4.040945
+35115,"Davy Crockett, King of the Wild Frontier","[{'id': 28, 'name': 'Action'}, {'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 37, 'name': 'Western'}]",1955-05-25,0.0,0,5.9,5.497359
+14821,Escape to Witch Mountain,"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 878, 'name': 'Science Fiction'}, {'id': 10751, 'name': 'Family'}]",1975-03-21,20000000.0,0,6.5,7.151691
+14136,The Love Bug,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1968-12-22,0.0,0,6.0,10.091707
+10869,Herbie Rides Again,"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1974-02-14,0.0,0,5.9,4.914603
+22660,Old Yeller,"[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 37, 'name': 'Western'}]",1957-12-25,0.0,0,7.0,12.887829
+19186,The Parent Trap,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1961-06-12,0.0,0,6.8,5.807074
+31102,Pollyanna,"[{'id': 12, 'name': 'Adventure'}]",1960-05-19,0.0,0,6.9,3.254308
+6878,Homeward Bound: The Incredible Journey,"[{'id': 12, 'name': 'Adventure'}, {'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1993-02-03,0.0,0,6.6,7.186506
+15944,The Shaggy Dog,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1959-03-19,0.0,0,6.2,3.404213
+18444,Swiss Family Robinson,"[{'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}]",1960-12-21,0.0,0,7.0,4.623089
+20723,That Darn Cat!,"[{'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}, {'id': 35, 'name': 'Comedy'}]",1965-12-02,0.0,0,6.4,2.803679
+173,"20,000 Leagues Under the Sea","[{'id': 12, 'name': 'Adventure'}, {'id': 18, 'name': 'Drama'}, {'id': 878, 'name': 'Science Fiction'}]",1954-12-23,28200000.0,5000000,6.9,8.722406
+864,Cool Runnings,"[{'id': 35, 'name': 'Comedy'}]",1993-09-30,154864401.0,14000000,6.8,8.30721
+24795,Angels in the Outfield,"[{'id': 14, 'name': 'Fantasy'}, {'id': 18, 'name': 'Drama'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",1994-07-15,50236831.0,0,5.7,10.892812
+11224,Cinderella,"[{'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}, {'id': 16, 'name': 'Animation'}, {'id': 10749, 'name': 'Romance'}]",1950-03-04,263591415.0,2900000,6.8,14.436858
+81310,Winnie the Pooh and the Blustery Day,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 10402, 'name': 'Music'}]",1968-12-20,0.0,0,7.8,1.054814
+15947,The Three Caballeros,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}, {'id': 10402, 'name': 'Music'}]",1944-07-21,0.0,0,6.2,8.702472
+9078,The Sword in the Stone,"[{'id': 16, 'name': 'Animation'}, {'id': 10751, 'name': 'Family'}]",1963-12-25,22182353.0,3000000,6.9,10.636458
+29682,So Dear to My Heart,"[{'id': 16, 'name': 'Animation'}, {'id': 18, 'name': 'Drama'}, {'id': 10751, 'name': 'Family'}]",1948-11-29,0.0,0,6.3,0.901443
+8367,Robin Hood: Prince of Thieves,"[{'id': 12, 'name': 'Adventure'}]",1991-06-14,390493908.0,48000000,6.6,10.639244
+433,Mary Poppins,"[{'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}, {'id': 14, 'name': 'Fantasy'}]",1964-08-27,102272727.0,6000000,7.4,15.11549

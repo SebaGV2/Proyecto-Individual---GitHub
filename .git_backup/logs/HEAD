@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 8c094e764edc43cfbc62cd3d55106d6d6d4177f7 Sebastian Gabriel Vanella <vanellasebastian123@gmail.com> 1736275410 -0300	commit (initial): first commit
+8c094e764edc43cfbc62cd3d55106d6d6d4177f7 0000000000000000000000000000000000000000 Sebastian Gabriel Vanella <vanellasebastian123@gmail.com> 1736275455 -0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 8c094e764edc43cfbc62cd3d55106d6d6d4177f7 Sebastian Gabriel Vanella <vanellasebastian123@gmail.com> 1736275455 -0300	Branch: renamed refs/heads/master to refs/heads/main
+8c094e764edc43cfbc62cd3d55106d6d6d4177f7 63f10b4467615719c5c415918fa894c3cc1c1f87 Sebastian Gabriel Vanella <vanellasebastian123@gmail.com> 1736277722 -0300	commit: first commit
+63f10b4467615719c5c415918fa894c3cc1c1f87 4171d4026d3d9c39fb650539a0e7c707b4d00a54 Sebastian Gabriel Vanella <vanellasebastian123@gmail.com> 1736280688 -0300	commit: Eliminados archivos grandes y mantenidos solo los reducidos
+4171d4026d3d9c39fb650539a0e7c707b4d00a54 3d8ed90428a7951a03dac0e7b872c6a2b0115d0d Sebastian Gabriel Vanella <vanellasebastian123@gmail.com> 1736281201 -0300	commit: Reducidos archivos a 5,000 filas para cumplimiento con GitHub
+3d8ed90428a7951a03dac0e7b872c6a2b0115d0d 03c98e945cba354354f765bf26fb4780ccbdcfa9 Sebastian Gabriel Vanella <vanellasebastian123@gmail.com> 1736282036 -0300	commit: Reducidos archivos a 1,000 filas para cumplimiento con GitHub
+03c98e945cba354354f765bf26fb4780ccbdcfa9 e3c36cc3744e117979132bf19a67453e00a0fd3c Sebastian Gabriel Vanella <vanellasebastian123@gmail.com> 1736283450 -0300	commit: Configurar Git LFS y agregar .gitattributes
+e3c36cc3744e117979132bf19a67453e00a0fd3c f8acdb1376a30a6fbefc811988b3716f433db2af Sebastian Gabriel Vanella <vanellasebastian123@gmail.com> 1736284096 -0300	commit: Agregar archivos reducidos con Git LFS
+f8acdb1376a30a6fbefc811988b3716f433db2af 7eba0cc040c8d4ded78dd66ca4f9e8b53bcd6b9e Sebastian Gabriel Vanella <vanellasebastian123@gmail.com> 1736284318 -0300	commit: Eliminar datos grandes para subir el repositorio
+7eba0cc040c8d4ded78dd66ca4f9e8b53bcd6b9e e3b2e74ee6ba0e57d87e50d95359886d07e8fcc2 Sebastian Gabriel Vanella <vanellasebastian123@gmail.com> 1736285197 -0300	commit: Añade configuración de Git LFS y actualiza README.md
+e3b2e74ee6ba0e57d87e50d95359886d07e8fcc2 6b5db72c00302c4feb1f919e09edee9eb2a28a12 Sebastian Gabriel Vanella <vanellasebastian123@gmail.com> 1736286956 -0300	commit: Configura archivos grandes con Git LFS
+6b5db72c00302c4feb1f919e09edee9eb2a28a12 c0f2561f18e74dafdbebd4aa225052c5643643ba Sebastian Gabriel Vanella <vanellasebastian123@gmail.com> 1736291096 -0300	commit: Agregar .gitignore y actualizar README.md

@@ -168,3 +168,25 @@ SebaGV2
 
 ¡Gracias por usar esta API!
 
+
+#Encontrar peliculas segun director
+https://proyecto-individual-github.onrender.com/movies/director/Frank%20Capra
+
+#Encontrar peliculas segun genero
+https://proyecto-individual-github.onrender.com/movies/genre/Action
+
+#Encontrar peliculas mediante palabras o letras clave
+https://proyecto-individual-github.onrender.com/movies/search/w
+
+# Peliculas mas populares de cada año
+https://proyecto-individual-github.onrender.com/movies/year/1955
+
+# Encontrar la película más popular por década
+https://proyecto-individual-github.onrender.com/movies/top_by_decade
+
+# Directores con más películas exitosas por calificación
+https://proyecto-individual-github.onrender.com/movies/top_directors  
+
+URL video explicativo Youtube
+https://www.youtube.com/watch?v=8EqhyzlxEIE
+
